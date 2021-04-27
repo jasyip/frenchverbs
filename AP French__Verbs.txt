@@ -1,909 +1,678 @@
-abaisser	<div> abaisser </div> <hr> <div> to lower/humiliate/(cookery) roll [sth] out/(cookery) place </div> 
-abasourdir	<div> abasourdir </div> <hr> <div> to (literary) deafen/(figuartive) dumbfound </div> 
-abattre [qch]	<div> abattre [qch] </div> <hr> <div> to knock [sth] down/cut [sth] down/slaughter/(informal) get through (a lot of work)/lay (a card) down </div> 
-abolir	<div> abolir </div> <hr> <div> to abolish </div> 
-absoudre [qqn]	<div> absoudre [qqn] </div> <hr> <div> to absolve/(figurative) pardon/acquit </div> 
-s'abstenir (de faire [qch])	<div> s'abstenir (de faire [qch]) </div> <hr> <div> to abstain/refrain from doing [sth]/stop doing [sth] </div> 
-accepter	<div> accepter </div> <hr> <div> to accept/let [sb] in/allow </div> 
-acclamer	<div> acclamer </div> <hr> <div> to cheer/acclaim </div> 
-accompagner	<div> accompagner </div> <hr> <div> to accompagny/escort/care for [sb]/go well with [sth] </div> 
-accorder [qch] à [qqn]	<div> accorder [qch] à [qqn] </div> <hr> <div> to agree to [sth] with [sb]/offer [sb] [sth] </div> 
-accourir	<div> accourir </div> <hr> <div> to come running </div> 
-accrocher	<div> accrocher </div> <hr> <div> to hang ([sth] up)/not skid/(familiar) get along </div> 
-accueillir [qch]	<div> accueillir [qch] </div> <hr> <div> to welcome/greet/meet/take [sb] in </div> 
-accuser [qch]	<div> accuser [qch] </div> <hr> <div> to blame/suffer </div> 
-acheter	<div> acheter </div> <hr> <div> to buy/bribe/(figuartive) earn </div> 
-achever	<div> achever </div> <hr> <div> to finish/kill </div> 
-(s')acquérir	<div> (s')acquérir </div> <hr> <div> to acquire </div> 
-(s')adjoindre [qch]	<div> (s')adjoindre [qch] </div> <hr> <div> to appoint/add </div> 
-admettre	<div> admettre </div> <hr> <div> to admit/accept/allow/admit </div> 
-admirer	<div> admirer </div> <hr> <div> to admire </div> 
-adorer	<div> adorer </div> <hr> <div> to adore/worship </div> 
-adresser	<div> adresser </div> <hr> <div> to send/express </div> 
-advenir	<div> advenir </div> <hr> <div> to happen/come of [sth] </div> 
-affaiblir	<div> affaiblir </div> <hr> <div> to weaken </div> 
-agacer	<div> agacer </div> <hr> <div> to annoy/tease </div> 
-agir	<div> agir </div> <hr> <div> to act/take its course/(literary) impel </div> 
-aider ([qqn] à faire [qch])	<div> aider ([qqn] à faire [qch]) </div> <hr> <div> to help ([sb] do [sth]) </div> 
-aimer	<div> aimer </div> <hr> <div> to like/love </div> 
-ajouter (à)	<div> ajouter (à) </div> <hr> <div> to add (to [sth]) </div> 
-aller	<div> aller </div> <hr> <div> to go/be </div> 
-aménager	<div> aménager </div> <hr> <div> to convert/set [sth] up/adjust </div> 
-amener	<div> amener </div> <hr> <div> to bring (a person)/take/steer/cause/lower </div> 
-amuser	<div> amuser </div> <hr> <div> to amuse </div> 
-animer	<div> animer </div> <hr> <div> to present/move/bring to life/enliven/motivate </div> 
-annoncer	<div> annoncer </div> <hr> <div> to foreshadow/forecast/(cards) declare </div> 
-apercevoir	<div> apercevoir </div> <hr> <div> to glimpse/become aware of/see </div> 
-apparaître	<div> apparaître </div> <hr> <div> to come into being/appear </div> 
-appartenir à	<div> appartenir à </div> <hr> <div> to belong to [sb]/be up to [sb] </div> 
-appeler	<div> appeler </div> <hr> <div> to call </div> 
-apporter	<div> apporter </div> <hr> <div> to bring/provide </div> 
-apprendre	<div> apprendre </div> <hr> <div> to learn about [sth] </div> 
-approcher	<div> approcher </div> <hr> <div> to approach/be almost here/be almost [sth]/be in contact with/get one's head around [sth] </div> 
-approuver	<div> approuver </div> <hr> <div> to approve of [sth] </div> 
-armer	<div> armer </div> <hr> <div> to arm </div> 
-arracher	<div> arracher </div> <hr> <div> to remove </div> 
-arraisonner	<div> arraisonner </div> <hr> <div> to inspect </div> 
-arranger	<div> arranger </div> <hr> <div> to arrange/settle/suit/fantasize/(familiar) fix </div> 
-arrêter	<div> arrêter </div> <hr> <div> to stop/switch [sth] off/arrest/put on sick leave/settle on </div> 
-arriver	<div> arriver </div> <hr> <div> to arrive/come/approach/happen/reach </div> 
-assaillir [qqn] (de [qch])	<div> assaillir [qqn] (de [qch]) </div> <hr> <div> to assail </div> 
-asseoir	<div> asseoir </div> <hr> <div> to sit/offer [sb] a seat/base/astound </div> 
-assister	<div> assister </div> <hr> <div> to attend/assist/comfort/help </div> 
-assurer	<div> assurer </div> <hr> <div> to insure/assure/guarantee/handle/secure/belay/(familiar) be good/ </div> 
-astreindre [qqn] à faire [qch]	<div> astreindre [qqn] à faire [qch] </div> <hr> <div> to compel [sb] to do [sth] </div> 
-attaquer	<div> attaquer </div> <hr> <div> to attack/raid/criticize/(familiar) tuck into [sth]/set sail for/(cards) lead </div> 
-atteindre	<div> atteindre </div> <hr> <div> to reach/attain/affect </div> 
-attendre	<div> attendre </div> <hr> <div> to wait (for [sth])/hope for ([sth]) </div> 
-attirer	<div> attirer </div> <hr> <div> to attract/be attractive </div> 
-attraper	<div> attraper </div> <hr> <div> to catch/grab/just catch [sth]/catch [sb] out </div> 
-augmenter	<div> augmenter </div> <hr> <div> to increase (pay of [sb])/raise price of [sth] </div> 
-avancer	<div> avancer </div> <hr> <div> to move forward/progress/be fast/move [sth] forward/put [sth] forward/bring [sth] forward/ claim/protrude/help [sb] to get on more quickly/lend </div> 
-aventurer	<div> aventurer </div> <hr> <div> to venture </div> 
-avoir	<div> avoir </div> <hr> <div> to have/(age) be </div> 
-avoir (grand) besoin de [qqch]	<div> avoir (grand) besoin de [qqch] </div> <hr> <div> to (really) need </div> 
-avoir raison	<div> avoir raison </div> <hr> <div> to be right </div> 
-baisser	<div> baisser </div> <hr> <div> to lower/dim </div> 
-balancer	<div> balancer </div> <hr> <div> to swing/(familiar) drop/(familiar) throw away/(literary) be undecided/(familiar) snitch on/balance </div> 
-balayer	<div> balayer </div> <hr> <div> to sweep ([sth] away)/(figurative, familiar) fire/ </div> 
-bâtir	<div> bâtir </div> <hr> <div> to build/(sewing) tack </div> 
-battre (de)	<div> battre (de) </div> <hr> <div> to beat/flap/scour </div> 
-bavarder	<div> bavarder </div> <hr> <div> to chat/gossip </div> 
-bêler	<div> bêler </div> <hr> <div> to bleat/(figurative) whine </div> 
-bénir	<div> bénir </div> <hr> <div> to bless </div> 
-blaguer (sur)	<div> blaguer (sur) </div> <hr> <div> to joke </div> 
-blâmer	<div> blâmer </div> <hr> <div> to criticize/give [sb] an official warning </div> 
-blanchir	<div> blanchir </div> <hr> <div> to whiten/clear/go white </div> 
-blesser [qch]	<div> blesser [qch] </div> <hr> <div> to hurt ([sb]'s feelings)/harm </div> 
-boire	<div> boire </div> <hr> <div> to drink </div> 
-bouger	<div> bouger </div> <hr> <div> to move/be dynamic/wash out/take action </div> 
-bouillir	<div> bouillir </div> <hr> <div> to boil/(figurative) seethe </div> 
-briser	<div> briser </div> <hr> <div> to break ([sth] up)/shatter </div> 
-brosser	<div> brosser </div> <hr> <div> to brush/outline/get drunk </div> 
-broyer	<div> broyer </div> <hr> <div> to crush/(figurative) wreck </div> 
-brûler	<div> brûler </div> <hr> <div> to burn/(familiar) be boiling/go through/discredit </div> 
-cacher	<div> cacher </div> <hr> <div> to hide </div> 
-casser	<div> casser </div> <hr> <div> to break/knock [sth] through/(slang) offend/demote/(familiar) break up/(familiar) overcome/(familiar) rob </div> 
-causer	<div> causer </div> <hr> <div> to chat/cause/(informal) speak </div> 
-céder (à)	<div> céder (à) </div> <hr> <div> to yield (to [sth]) </div> 
-ceindre	<div> ceindre </div> <hr> <div> (litterary) to gird </div> 
-célébrer	<div> célébrer </div> <hr> <div> to celebrate </div> 
-cesser (de faire [qch])	<div> cesser (de faire [qch]) </div> <hr> <div> to cease </div> 
-changer ([qch] en [qch])	<div> changer ([qch] en [qch]) </div> <hr> <div> to change ([sth] into/for [sth])/be a nice change for [sb] </div> 
-chanter	<div> chanter </div> <hr> <div> to sing/make a sound/lift spirits/(literary) tell of [sth] </div> 
-charger	<div> charger </div> <hr> <div> to load [sth] up/charge [sth] up/charge at [sth]/(military) charge/(electricity) charge/testify against [sb]/take on/pick up </div> 
-chasser	<div> chasser </div> <hr> <div> to go hunting/hunt/shoo/blow/get rid of [sth]/(vehicle) swerve/drag anchor/(familiar) chase </div> 
-cheminer	<div> cheminer </div> <hr> <div> to walk/progress </div> 
-chercher	<div> chercher </div> <hr> <div> to look (for ([sth]))/try to remember/think/(familiar) be spoiling for a fight </div> 
-chérir	<div> chérir </div> <hr> <div> to cherish </div> 
-choisir	<div> choisir </div> <hr> <div> to choose </div> 
-chuchoter	<div> chuchoter </div> <hr> <div> to whisper </div> 
-circoncire [qqn]	<div> circoncire [qqn] </div> <hr> <div> to circumcise </div> 
-circonscrire	<div> circonscrire </div> <hr> <div> to contain/determine </div> 
-circonvenir [qch]	<div> circonvenir [qch] </div> <hr> <div> to circumscribe/get around [sb] </div> 
-clore	<div> clore </div> <hr> <div> to close/shut off/fence off </div> 
-coller	<div> coller </div> <hr> <div> to stick/press/tailgate/(familiar) cling to/(familiar) give/(familiar) give [sb] detention/(familiar) put [sb] with/(familiar) stump/(familiar) flunk/add aspic to/(wine making) clarify </div> 
-combattre	<div> combattre </div> <hr> <div> to combat/fight </div> 
-commander	<div> commander </div> <hr> <div> to be in charge (of [sth])/order/require/be in control of/operate </div> 
-commencer (à faire [qch]/par faire [qch])	<div> commencer (à faire [qch]/par faire [qch]) </div> <hr> <div> to start (to do [sth]/by doing [sth])/start to get [sth]/start with </div> 
-commettre	<div> commettre </div> <hr> <div> to commit/(familiar) scribble </div> 
-comparaître	<div> comparaître </div> <hr> <div> to appear before </div> 
-comparer	<div> comparer </div> <hr> <div> to compare </div> 
-compléter	<div> compléter </div> <hr> <div> to complete/expand on [sth] </div> 
-comprendre	<div> comprendre </div> <hr> <div> to understand/include/incorportate </div> 
-compter	<div> compter </div> <hr> <div> to count ([sth] up)/add up/include/allow/charge/pay up [sth]/pay attention to [sth] </div> 
-concevoir	<div> concevoir </div> <hr> <div> to design/perceive/understand/feel/conceive </div> 
-conclure	<div> conclure </div> <hr> <div> to end/conclude </div> 
-concourir	<div> concourir </div> <hr> <div> to compete/contribute </div> 
-conduire	<div> conduire </div> <hr> <div> to drive/guide/lead/conduct </div> 
-confire [qch]	<div> confire [qch] </div> <hr> <div> to preserve </div> 
-confondre	<div> confondre </div> <hr> <div> to confuse/confound/combine/(literary) blend </div> 
-conjoindre	<div> conjoindre </div> <hr> <div> (literary) to conjoin </div> 
-connaître	<div> connaître </div> <hr> <div> to know/get to know </div> 
-conquérir	<div> conquérir </div> <hr> <div> to conquer/win [sb]'s heart/(figuartive) win </div> 
-conseiller [qch]	<div> conseiller [qch] </div> <hr> <div> to advise/recommend </div> 
-consentir (à)	<div> consentir (à) </div> <hr> <div> to agree to ([sth]) </div> 
-considérer	<div> considérer </div> <hr> <div> to consider/respect/view </div> 
-consommer	<div> consommer </div> <hr> <div> to consume/drink/(vehicle) be a gas-guzzler/get through [sth]/(literary) perpetrate/(literary) carry [sth] out </div> 
-construire	<div> construire </div> <hr> <div> to build (up)/construct </div> 
-contenir	<div> contenir </div> <hr> <div> to contain </div> 
-conter	<div> conter </div> <hr> <div> to recount </div> 
-(se) continuer	<div> (se) continuer </div> <hr> <div> to continue/keep going </div> 
-contraindre [qqn] à faire [qch]	<div> contraindre [qqn] à faire [qch] </div> <hr> <div> to compel [sb] to do [sth] </div> 
-contredire	<div> contredire </div> <hr> <div> to contradict/be at odds with </div> 
-contrevenir à	<div> contrevenir à </div> <hr> <div> to contravene </div> 
-contrôler	<div> contrôler </div> <hr> <div> to control </div> 
-convaincre [qqn] (de faire [qch])	<div> convaincre [qqn] (de faire [qch]) </div> <hr> <div> to convince [sb] (to do [sth]) </div> 
-convenir à [qch]	<div> convenir à [qch] </div> <hr> <div> to be suitable for [sth] </div> 
-correspondre	<div> correspondre </div> <hr> <div> to correspond/communicate </div> 
-corriger	<div> corriger </div> <hr> <div> to correct/give [sb] a good hiding </div> 
-corrompre	<div> corrompre </div> <hr> <div> to corrupt </div> 
-coucher	<div> coucher </div> <hr> <div> to put to bed/lay down/(formal) inscribe </div> 
-coudre	<div> coudre </div> <hr> <div> to sew </div> 
-couper	<div> couper </div> <hr> <div> to cut/disconnect/close/cross/cut through [sth]/break [sth] up/dilute/(cards) trump/cut ([sth]) off/slice </div> 
-courir	<div> courir </div> <hr> <div> to run/(figurative) circulate/(figurative) rush </div> 
-coûter ([qch] à [qqn])	<div> coûter ([qch] à [qqn]) </div> <hr> <div> to cost ([sb] [sth]) </div> 
-couvrir	<div> couvrir </div> <hr> <div> to cover ([sth] up/for)/drown [sth] out/guarantee/run/(figurative) conceal/mate with [sth] </div> 
-craindre [qch]	<div> craindre [qch] </div> <hr> <div> to be afraid of [sth]/be worried about [sth]/be sensitive to [sth]/(slang) suck/be dangerous </div> 
-créer	<div> créer </div> <hr> <div> to create </div> 
-crier	<div> crier </div> <hr> <div> to scream/shout (at [sb])/clash </div> 
-croire	<div> croire </div> <hr> <div> to believe/think </div> 
-cueillir	<div> cueillir </div> <hr> <div> to gather/(familiar) pick [sb] up </div> 
-cuire	<div> cuire </div> <hr> <div> to cook/bake </div> 
-culpabiliser	<div> culpabiliser </div> <hr> <div> to (make [sb]) feel guilty </div> 
-danser	<div> danser </div> <hr> <div> to dance </div> 
-débattre	<div> débattre </div> <hr> <div> to debate/haggle over </div> 
-décevoir	<div> décevoir </div> <hr> <div> to disappoint </div> 
-déchirer	<div> déchirer </div> <hr> <div> to rip/(figurative) tear [sb] apart/(figurative) hurt/(familiar) be awersome/ </div> 
-décider	<div> décider </div> <hr> <div> to decide (on [sth]) </div> 
-découdre	<div> découdre </div> <hr> <div> to rip the seam from [sth] </div> 
-décourager [qch] (de faire [qch])	<div> décourager [qch] (de faire [qch]) </div> <hr> <div> to discourage ([sb] from doing [sth]) </div> 
-découvrir [qch]	<div> découvrir [qch] </div> <hr> <div> to uncover/discover/dislose [sth]/find/leave [sth] vulnerable </div> 
-décrire	<div> décrire </div> <hr> <div> to describe </div> 
-se dédire	<div> se dédire </div> <hr> <div> to recant </div> 
-déduire	<div> déduire </div> <hr> <div> to deduce </div> 
-défaillir	<div> défaillir </div> <hr> <div> to faint/(formal) fail </div> 
-défaire	<div> défaire </div> <hr> <div> to undo/dismantle/remove/(formal) break [sth] up/defeat/(formal) rid [sb] of [sth] </div> 
-défendre [qch]	<div> défendre [qch] </div> <hr> <div> to defend </div> 
-défricher	<div> défricher </div> <hr> <div> to (land) clear/(figurative) ready </div> 
-dégager	<div> dégager </div> <hr> <div> to clear/pull [sth] out/emit/bring [sth] out/excuse </div> 
-déjeuner (de [qch])	<div> déjeuner (de [qch]) </div> <hr> <div> to have ([sth] for) lunch </div> 
-demander [qch] (à [qqn])	<div> demander [qch] (à [qqn]) </div> <hr> <div> to ask ([sb]) for [sth]/require/look for [sb] </div> 
-déménager	<div> déménager </div> <hr> <div> to move/(familiar) rock </div> 
-demeurer	<div> demeurer </div> <hr> <div> to live/stay </div> 
-démolir	<div> démolir </div> <hr> <div> to demolish/(figurative) discredit </div> 
-dénoncer	<div> dénoncer </div> <hr> <div> to denounce </div> 
-départir	<div> départir </div> <hr> <div> (literary) to assign </div> 
-dépasser	<div> dépasser </div> <hr> <div> to be taller than [sth]/stick out/overtake/exceed/surpass/(familiar) be beyond [sb] </div> 
-dépêcher	<div> dépêcher </div> <hr> <div> to dispatch </div> 
-dépeindre	<div> dépeindre </div> <hr> <div> to depict </div> 
-dépendre	<div> dépendre </div> <hr> <div> to take [sth] down </div> 
-dépenser	<div> dépenser </div> <hr> <div> to spend/use up </div> 
-déplaire à [qqn]	<div> déplaire à [qqn] </div> <hr> <div> to displease </div> 
-déranger	<div> déranger </div> <hr> <div> to disturb/bother/upset/make a mess of [sth]/be disturbing/muddle [sth] up </div> 
-descendre	<div> descendre </div> <hr> <div> to go down ([sth])/alight/descend/take [sth] down/bring [sth] down/lower/(informal) kill/stay at/visit </div> 
-désirer	<div> désirer </div> <hr> <div> to want/desire </div> 
-désobéir (à [qqn])	<div> désobéir (à [qqn]) </div> <hr> <div> to disobey </div> 
-dessiner	<div> dessiner </div> <hr> <div> to draw/outline </div> 
-déteindre	<div> déteindre </div> <hr> <div> to lose its color </div> 
-détenir	<div> détenir </div> <hr> <div> to hold </div> 
-détester	<div> détester </div> <hr> <div> to hate </div> 
-détourner	<div> détourner </div> <hr> <div> to divert/embezzle/distort/deter </div> 
-détruire	<div> détruire </div> <hr> <div> to destroy </div> 
-développer	<div> développer </div> <hr> <div> to develop/make use of/(weightlifting) extend </div> 
-devenir	<div> devenir </div> <hr> <div> to become </div> 
-dévêtir	<div> dévêtir </div> <hr> <div> to undress </div> 
-deviner	<div> deviner </div> <hr> <div> to guess/perceive/make [sth] out </div> 
-devoir faire [qch]	<div> devoir faire [qch] </div> <hr> <div> to mυst/be bound to do [sth]/be supposed to do [sth] </div> 
-différer	<div> différer </div> <hr> <div> to differ/postpone </div> 
-diminuer	<div> diminuer </div> <hr> <div> to reduce/diminish/disparage/fall </div> 
-dîner	<div> dîner </div> <hr> <div> to (France) have dinner/(other countries) have lunch </div> 
-dire	<div> dire </div> <hr> <div> to say </div> 
-diriger	<div> diriger </div> <hr> <div> to direct/point [sth] at [sb]/guide/manage </div> 
-discourir sur/de	<div> discourir sur/de </div> <hr> <div> to talk about/discuss </div> 
-discuter	<div> discuter </div> <hr> <div> to discuss/dispute/argue </div> 
-disjoindre	<div> disjoindre </div> <hr> <div> to come apart/differentiate between </div> 
-disparaître	<div> disparaître </div> <hr> <div> to disappear </div> 
-dissoudre	<div> dissoudre </div> <hr> <div> to dissolve </div> 
-divorcer	<div> divorcer </div> <hr> <div> to divorce </div> 
-donner	<div> donner </div> <hr> <div> to give/come to/produce/blare </div> 
-dormir	<div> dormir </div> <hr> <div> to sleep/lie dormant/(money) idle </div> 
-doubler	<div> doubler </div> <hr> <div> to double/overtake/line/be [sb]'s stunt double/dub/double-cross/(class) repeat </div> 
-douter	<div> douter </div> <hr> <div> to waver </div> 
-échapper à [qqn]	<div> échapper à [qqn] </div> <hr> <div> to escape/outrun/(figurative) elude/get away from [sb] </div> 
-échouer	<div> échouer </div> <hr> <div> to run aground/wash ashore/(figurative) end up/fail </div> 
-éclore	<div> éclore </div> <hr> <div> to hatch/(literary) bloom/(literary) dawn </div> 
-éconduire	<div> éconduire </div> <hr> <div> to dismiss/(literary) reject </div> 
-écouter	<div> écouter </div> <hr> <div> to listen </div> 
-écraser	<div> écraser </div> <hr> <div> to flatten/crush/squash/run over/shut up/stub out/overwrite/(slang) sleep like a log/(figurative) be overpowering </div> 
-écrire ([qch] à [qqn])	<div> écrire ([qch] à [qqn]) </div> <hr> <div> to write ([sth] to [sb]) </div> 
-effacer	<div> effacer </div> <hr> <div> to erase/clean/delete/(figurative) dodge/(slang) kill/(literary) outshine </div> 
-effrayer	<div> effrayer </div> <hr> <div> to frighten </div> 
-égayer	<div> égayer </div> <hr> <div> to amuse/brighten [sth] up </div> 
-élever	<div> élever </div> <hr> <div> to raise/build/breed/rise/amount to </div> 
-élire	<div> élire </div> <hr> <div> to elect </div> 
-éloigner	<div> éloigner </div> <hr> <div> to take [sth] away/alienate/put [sth] off/oust </div> 
-embrasser	<div> embrasser </div> <hr> <div> to kiss/(figurative) take [sth] up/(formal, figurative) embrace </div> 
-emmener	<div> emmener </div> <hr> <div> to take/lead </div> 
-émoudre	<div> émoudre </div> <hr> <div> to sharpen </div> 
-s'emparer de [qch]	<div> s'emparer de [qch] </div> <hr> <div> to capture/seize/take hold of [sb] </div> 
-empêcher ([qqn] de faire [qch])	<div> empêcher ([qqn] de faire [qch]) </div> <hr> <div> to prevent ([sb] from doing [sth]) </div> 
-employer	<div> employer </div> <hr> <div> to employ/use </div> 
-empreindre	<div> empreindre </div> <hr> <div> to imprint </div> 
-emprunter [qch] (à [qqn])	<div> emprunter [qch] (à [qqn]) </div> <hr> <div> to borrow [sth] (from [sb])/take </div> 
-enclore	<div> enclore </div> <hr> <div> to enclose </div> 
-encourager ([qqn] à faire [qch])	<div> encourager ([qqn] à faire [qch]) </div> <hr> <div> to encourage ([sb] to do [sth])/stimulate </div> 
-encourir	<div> encourir </div> <hr> <div> to risk </div> 
-endormir	<div> endormir </div> <hr> <div> to get [sb] to sleep </div> 
-enduire	<div> enduire </div> <hr> <div> to coat </div> 
-enfreindre [qch]	<div> enfreindre [qch] </div> <hr> <div> to contravene </div> 
-s'enfuir	<div> s'enfuir </div> <hr> <div> to flee </div> 
-engager	<div> engager </div> <hr> <div> to appoint/engage in [sth]/commit/be [sb]'s opinion/(military) deploy/(sports) kick off/pawn/move/invest </div> 
-enjoindre	<div> enjoindre </div> <hr> <div> to order [sb] to do [sth] </div> 
-enlever	<div> enlever </div> <hr> <div> to remove/(clothes) take off/ </div> 
-ennuyer	<div> ennuyer </div> <hr> <div> to bore, annoy </div> 
-énoncer	<div> énoncer </div> <hr> <div> to state </div> 
-enquérir (s')	<div> enquérir (s') </div> <hr> <div> to inquire </div> 
-enregistrer	<div> enregistrer </div> <hr> <div> to record </div> 
-enseigner&nbsp;[qch] à [qqn]	<div> enseigner&nbsp;[qch] à [qqn] </div> <hr> <div> to teach [sth] to [sb] </div> 
-ensuivre (s')	<div> ensuivre (s') </div> <hr> <div> to ensue </div> 
-entendre	<div> entendre </div> <hr> <div> to hear </div> 
-enterrer	<div> enterrer </div> <hr> <div> to bury </div> 
-entraîner	<div> entraîner </div> <hr> <div> to involve, to pull </div> 
-entreprendre	<div> entreprendre </div> <hr> <div> to undertake </div> 
-entrer	<div> entrer </div> <hr> <div> to enter </div> 
-entretenir	<div> entretenir </div> <hr> <div> to look after </div> 
-entrouvrir	<div> entrouvrir </div> <hr> <div> to half-open </div> 
-envoler	<div> envoler </div> <hr> <div> to take flight </div> 
-envoyer	<div> envoyer </div> <hr> <div> to send </div> 
-épeler	<div> épeler </div> <hr> <div> to spell </div> 
-épouser	<div> épouser </div> <hr> <div> to marry </div> 
-épreindre	<div> épreindre </div> <hr> <div> to juice </div> 
-éprouver	<div> éprouver </div> <hr> <div> to test; to feel </div> 
-équivaloir	<div> équivaloir </div> <hr> <div> to equal </div> 
-espérer	<div> espérer </div> <hr> <div> to hope </div> 
-essayer	<div> essayer </div> <hr> <div> to try </div> 
-essuyer	<div> essuyer </div> <hr> <div> to wipe </div> 
-estimer	<div> estimer </div> <hr> <div> to estimate </div> 
-établir	<div> établir </div> <hr> <div> to establish </div> 
-éteindre	<div> éteindre </div> <hr> <div> to extinguish, turn off </div> 
-étendre	<div> étendre </div> <hr> <div> to stretch </div> 
-étonner	<div> étonner </div> <hr> <div> to astonish </div> 
-étourdir	<div> étourdir </div> <hr> <div> to stun, daze </div> 
-être	<div> être </div> <hr> <div> to be </div> 
-étreindre	<div> étreindre </div> <hr> <div> (formal) to hug/grip </div> 
-étudier	<div> étudier </div> <hr> <div> to study </div> 
-évaluer	<div> évaluer </div> <hr> <div> to evaluate </div> 
-éviter	<div> éviter </div> <hr> <div> to avoid </div> 
-exagérer	<div> exagérer </div> <hr> <div> to exaggerate </div> 
-exclure	<div> exclure </div> <hr> <div> to exclude </div> 
-excuser	<div> excuser </div> <hr> <div> to excuse </div> 
-exiger	<div> exiger </div> <hr> <div> to demand </div> 
-exister	<div> exister </div> <hr> <div> to exist </div> 
-expliquer	<div> expliquer </div> <hr> <div> to explain </div> 
-explorer	<div> explorer </div> <hr> <div> to explore </div> 
-exprimer	<div> exprimer </div> <hr> <div> to express </div> 
-fâcher	<div> fâcher </div> <hr> <div> to get angry </div> 
-faiblir	<div> faiblir </div> <hr> <div> to weaken </div> 
-faillir	<div> faillir </div> <hr> <div> to lack </div> 
-faire	<div> faire </div> <hr> <div> to do/make/cause/turn into/(familiar) say/measure/(familiara) cost/last/look/(meteorology) be/clean/(familiar) catch (an infection)/imitate </div> 
-falloir	<div> falloir </div> <hr> <div> to be necessary </div> 
-feindre	<div> feindre </div> <hr> <div> to feign </div> 
-féliciter	<div> féliciter </div> <hr> <div> to congratulate </div> 
-fendre	<div> fendre </div> <hr> <div> to split, crack </div> 
-fermer	<div> fermer </div> <hr> <div> to close </div> 
-feuilleter	<div> feuilleter </div> <hr> <div> to leaf through </div> 
-fier	<div> fier </div> <hr> <div> to depend on </div> 
-finir	<div> finir </div> <hr> <div> to finish </div> 
-fixer	<div> fixer </div> <hr> <div> to fix </div> 
-fonder	<div> fonder </div> <hr> <div> to found </div> 
-fondre	<div> fondre </div> <hr> <div> to melt </div> 
-forcer	<div> forcer </div> <hr> <div> to force </div> 
-forclore	<div> forclore </div> <hr> <div> to debar </div> 
-fouiller	<div> fouiller </div> <hr> <div> to dig deeply </div> 
-fournir	<div> fournir </div> <hr> <div> to furnish, provide </div> 
-frapper	<div> frapper </div> <hr> <div> to knock </div> 
-frémir	<div> frémir </div> <hr> <div> to shudder </div> 
-frire	<div> frire </div> <hr> <div> to fry </div> 
-fuir	<div> fuir </div> <hr> <div> to flee </div> 
-fumer	<div> fumer </div> <hr> <div> to smoke </div> 
-gagner	<div> gagner </div> <hr> <div> to win, earn, gain </div> 
-garder	<div> garder </div> <hr> <div> to keep </div> 
-gaspiller	<div> gaspiller </div> <hr> <div> to waste </div> 
-gâter	<div> gâter </div> <hr> <div> to spoil </div> 
-geindre	<div> geindre </div> <hr> <div> to groan </div> 
-geler	<div> geler </div> <hr> <div> to freeze </div> 
-gêner	<div> gêner </div> <hr> <div> to bother </div> 
-gérer	<div> gérer </div> <hr> <div> to manage </div> 
-goûter	<div> goûter </div> <hr> <div> to taste </div> 
-grandir	<div> grandir </div> <hr> <div> to grow </div> 
-gratter	<div> gratter </div> <hr> <div> to scratch, grate </div> 
-grêler	<div> grêler </div> <hr> <div> to hail </div> 
-grimper	<div> grimper </div> <hr> <div> to climb </div> 
-gronder	<div> gronder </div> <hr> <div> to scold </div> 
-guérir [qch]	<div> guérir [qch] </div> <hr> <div> to cure/heal </div> 
-habiller	<div> habiller </div> <hr> <div> to dress </div> 
-habiter	<div> habiter </div> <hr> <div> to live </div> 
-haïr	<div> haïr </div> <hr> <div> to hate </div> 
-hésiter	<div> hésiter </div> <hr> <div> to hesitate </div> 
-hoqueter	<div> hoqueter </div> <hr> <div> to hiccup </div> 
-ignorer	<div> ignorer </div> <hr> <div> to be unaware of, ignore </div> 
-imposer	<div> imposer </div> <hr> <div> to impose </div> 
-inclure	<div> inclure </div> <hr> <div> to include </div> 
-indiquer	<div> indiquer </div> <hr> <div> to indicate </div> 
-induire	<div> induire </div> <hr> <div> to mislead </div> 
-informer	<div> informer </div> <hr> <div> to inform </div> 
-inquiéter	<div> inquiéter </div> <hr> <div> to worry/bother/(familiar) put in jeopardy </div> 
-inscrire	<div> inscrire </div> <hr> <div> to write down </div> 
-insister	<div> insister </div> <hr> <div> to insist </div> 
-instruire	<div> instruire </div> <hr> <div> to instruct </div> 
-interdire	<div> interdire </div> <hr> <div> to forbid </div> 
-intéresser [qqn] à [qch]	<div> intéresser [qqn] à [qch] </div> <hr> <div> to get [sb] interested in [sth] </div> 
-interroger	<div> interroger </div> <hr> <div> to question </div> 
-interrompre	<div> interrompre </div> <hr> <div> to interrupt </div> 
-intervenir	<div> intervenir </div> <hr> <div> to intervene </div> 
-introduire	<div> introduire </div> <hr> <div> to introduce </div> 
-inventer	<div> inventer </div> <hr> <div> to invent </div> 
-inviter	<div> inviter </div> <hr> <div> to invite </div> 
-jaillir	<div> jaillir </div> <hr> <div> to spurt out </div> 
-jaser	<div> jaser </div> <hr> <div> to chatter </div> 
-jaunir	<div> jaunir </div> <hr> <div> to turn yellow </div> 
-jeter	<div> jeter </div> <hr> <div> to throw </div> 
-joindre	<div> joindre </div> <hr> <div> to join </div> 
-jouer	<div> jouer </div> <hr> <div> to play </div> 
-jouir	<div> jouir </div> <hr> <div> to enjoy </div> 
-juger	<div> juger </div> <hr> <div> to judge </div> 
-jurer	<div> jurer </div> <hr> <div> to swear, vow </div> 
-kidnapper	<div> kidnapper </div> <hr> <div> to kidnap </div> 
-klaxonner	<div> klaxonner </div> <hr> <div> to honk </div> 
-lâcher	<div> lâcher </div> <hr> <div> to loosen </div> 
-laisser	<div> laisser </div> <hr> <div> to leave </div> 
-lancer	<div> lancer </div> <hr> <div> to throw </div> 
-laver	<div> laver </div> <hr> <div> to wash </div> 
-lever	<div> lever </div> <hr> <div> to lift, stand </div> 
-lire	<div> lire </div> <hr> <div> to read </div> 
-loger	<div> loger </div> <hr> <div> to lodge </div> 
-louer	<div> louer </div> <hr> <div> to rent </div> 
-luire	<div> luire </div> <hr> <div> to shine </div> 
-maigrir	<div> maigrir </div> <hr> <div> to lose weight </div> 
-maintenir	<div> maintenir </div> <hr> <div> to maintain </div> 
-manger	<div> manger </div> <hr> <div> to eat </div> 
-manquer	<div> manquer </div> <hr> <div> to miss </div> 
-marcher	<div> marcher </div> <hr> <div> to walk, to function </div> 
-maudire	<div> maudire </div> <hr> <div> to curse </div> 
-méconnaître	<div> méconnaître </div> <hr> <div> to be unaware of </div> 
-médire de/sur	<div> médire de/sur </div> <hr> <div> to malign </div> 
-méfier	<div> méfier </div> <hr> <div> to mistrust </div> 
-mélanger	<div> mélanger </div> <hr> <div> to mix </div> 
-menacer	<div> menacer </div> <hr> <div> to threaten </div> 
-mener	<div> mener </div> <hr> <div> to lead/carry out/drive </div> 
-mentir	<div> mentir </div> <hr> <div> to lie </div> 
-méprendre	<div> méprendre </div> <hr> <div> to mistake </div> 
-mépriser	<div> mépriser </div> <hr> <div> to scorn </div> 
-mériter	<div> mériter </div> <hr> <div> to merit </div> 
-mesurer	<div> mesurer </div> <hr> <div> to measure </div> 
-mettre	<div> mettre </div> <hr> <div> to put </div> 
-modérer	<div> modérer </div> <hr> <div> to moderate </div> 
-monter	<div> monter </div> <hr> <div> to climb </div> 
-montrer	<div> montrer </div> <hr> <div> to show </div> 
-moquer	<div> moquer </div> <hr> <div> to mock </div> 
-mordre	<div> mordre </div> <hr> <div> to bite </div> 
-moudre	<div> moudre </div> <hr> <div> to mill, grind </div> 
-mouiller	<div> mouiller </div> <hr> <div> to moisten/(familiar) involve/drop anchor/(familiar) rain </div> 
-mourir	<div> mourir </div> <hr> <div> to die </div> 
-nager	<div> nager </div> <hr> <div> to swim </div> 
-naître	<div> naître </div> <hr> <div> to be born </div> 
-naviguer	<div> naviguer </div> <hr> <div> to sail/navigate/(figuaritive) proceed </div> 
-négliger	<div> négliger </div> <hr> <div> to neglect </div> 
-négocier	<div> négocier </div> <hr> <div> to negotiate </div> 
-neiger	<div> neiger </div> <hr> <div> to snow </div> 
-nettoyer	<div> nettoyer </div> <hr> <div> to clean </div> 
-neutraliser	<div> neutraliser </div> <hr> <div> to neutralize </div> 
-nier	<div> nier </div> <hr> <div> to deny </div> 
-noircir	<div> noircir </div> <hr> <div> to blacken </div> 
-nommer	<div> nommer </div> <hr> <div> to name </div> 
-noter	<div> noter </div> <hr> <div> to write [sth] down/mark/notice/represent </div> 
-nouer	<div> nouer </div> <hr> <div> to tie, knot </div> 
-nourrir	<div> nourrir </div> <hr> <div> to feed </div> 
-noyer	<div> noyer </div> <hr> <div> to drown </div> 
-nuire	<div> nuire </div> <hr> <div> to harm </div> 
-obéir (à [qch])	<div> obéir (à [qch]) </div> <hr> <div> to obey/(machine) respond </div> 
-obliger	<div> obliger </div> <hr> <div> to oblige </div> 
-obtenir	<div> obtenir </div> <hr> <div> to obtain, to get </div> 
-occlure	<div> occlure </div> <hr> <div> to occlude </div> 
-occuper	<div> occuper </div> <hr> <div> to occupy </div> 
-offrir	<div> offrir </div> <hr> <div> to offer </div> 
-oindre	<div> oindre </div> <hr> <div> to anoint </div> 
-omettre	<div> omettre </div> <hr> <div> to omit </div> 
-oser	<div> oser </div> <hr> <div> to dare </div> 
-oublier	<div> oublier </div> <hr> <div> to forget </div> 
-ouvrir	<div> ouvrir </div> <hr> <div> to open/turn on </div> 
-paraître	<div> paraître </div> <hr> <div> to seem </div> 
-parcourir	<div> parcourir </div> <hr> <div> to cover, travel </div> 
-pardonner	<div> pardonner </div> <hr> <div> to forgive </div> 
-parler	<div> parler </div> <hr> <div> to talk </div> 
-partager	<div> partager </div> <hr> <div> to share </div> 
-participer à [qch]	<div> participer à [qch] </div> <hr> <div> to participate in [sth] </div> 
-partir	<div> partir </div> <hr> <div> to leave/start/disappear/go/(figurative) pass away </div> 
-parvenir	<div> parvenir </div> <hr> <div> to reach </div> 
-passer	<div> passer </div> <hr> <div> to pass, spend time </div> 
-patiner	<div> patiner </div> <hr> <div> to skate </div> 
-payer	<div> payer </div> <hr> <div> to pay </div> 
-pécher	<div> pécher </div> <hr> <div> to sin </div> 
-pêcher	<div> pêcher </div> <hr> <div> to fish </div> 
-peigner	<div> peigner </div> <hr> <div> to comb </div> 
-peindre	<div> peindre </div> <hr> <div> to paint/(formal) depict </div> 
-peler	<div> peler </div> <hr> <div> to peel </div> 
-pendre	<div> pendre </div> <hr> <div> to hang </div> 
-pénétrer	<div> pénétrer </div> <hr> <div> to enter </div> 
-penser	<div> penser </div> <hr> <div> to think </div> 
-percevoir	<div> percevoir </div> <hr> <div> to perceive </div> 
-perdre	<div> perdre </div> <hr> <div> to lose </div> 
-périr	<div> périr </div> <hr> <div> to perish </div> 
-permettre	<div> permettre </div> <hr> <div> to permit, to allow </div> 
-persuader	<div> persuader </div> <hr> <div> to persuade </div> 
-peser	<div> peser </div> <hr> <div> to weigh </div> 
-pianoter	<div> pianoter </div> <hr> <div> to tap (like a piano) </div> 
-placer	<div> placer </div> <hr> <div> to put </div> 
-plaindre	<div> plaindre </div> <hr> <div> to pity </div> 
-plaire	<div> plaire </div> <hr> <div> to please </div> 
-plaisanter	<div> plaisanter </div> <hr> <div> to joke </div> 
-planter	<div> planter </div> <hr> <div> to plant, to crash (pc) </div> 
-pleurer	<div> pleurer </div> <hr> <div> to cry </div> 
-pleuvoir	<div> pleuvoir </div> <hr> <div> to rain </div> 
-plier	<div> plier </div> <hr> <div> to fold, bend </div> 
-plonger	<div> plonger </div> <hr> <div> to dive </div> 
-poindre	<div> poindre </div> <hr> <div> (literary) to start to show </div> 
-pondre	<div> pondre </div> <hr> <div> to lay (an egg) </div> 
-porter	<div> porter </div> <hr> <div> to wear, carry </div> 
-poser	<div> poser </div> <hr> <div> to put </div> 
-posséder	<div> posséder </div> <hr> <div> to possess </div> 
-poursuivre	<div> poursuivre </div> <hr> <div> to pursue </div> 
-pousser	<div> pousser </div> <hr> <div> to push </div> 
-pouvoir	<div> pouvoir </div> <hr> <div> to be able </div> 
-prédire	<div> prédire </div> <hr> <div> to predict </div> 
-préférer	<div> préférer </div> <hr> <div> to prefer </div> 
-prendre	<div> prendre </div> <hr> <div> to take </div> 
-préparer (parer)	<div> préparer (parer) </div> <hr> <div> to prepare </div> 
-prescrire	<div> prescrire </div> <hr> <div> to subscribe </div> 
-présenter [sth] (à [qqn])	<div> présenter [sth] (à [qqn]) </div> <hr> <div> to introduce [sth] (to [sb])/present [sth] (to [sb]) </div> 
-pressentir	<div> pressentir </div> <hr> <div> to have a premonition </div> 
-presser	<div> presser </div> <hr> <div> to squeeze </div> 
-prétendre	<div> prétendre </div> <hr> <div> to claim </div> 
-prêter	<div> prêter </div> <hr> <div> to loan </div> 
-prévaloir (se)	<div> prévaloir (se) </div> <hr> <div> to pride oneself on </div> 
-prévenir	<div> prévenir </div> <hr> <div> to prevent </div> 
-prévoir	<div> prévoir </div> <hr> <div> to foresee </div> 
-prier	<div> prier </div> <hr> <div> to pray </div> 
-produire	<div> produire </div> <hr> <div> to produce </div> 
-projeter	<div> projeter </div> <hr> <div> to project </div> 
-promener [qch]	<div> promener [qch] </div> <hr> <div> to walk/let [sth] wander over [sth]/parade/scatter/(informal, figuartive) manipulate </div> 
-promettre	<div> promettre </div> <hr> <div> to promise </div> 
-prononcer	<div> prononcer </div> <hr> <div> to pronounce </div> 
-proposer	<div> proposer </div> <hr> <div> to propose, suggest </div> 
-proscrire	<div> proscrire </div> <hr> <div> to prohibit </div> 
-protéger	<div> protéger </div> <hr> <div> to protect </div> 
-prouver	<div> prouver </div> <hr> <div> to prove </div> 
-provenir	<div> provenir </div> <hr> <div> to come from, be due to </div> 
-puer	<div> puer </div> <hr> <div> to stink </div> 
-punir	<div> punir </div> <hr> <div> to punish </div> 
-quérir	<div> quérir </div> <hr> <div> to summon </div> 
-quitter	<div> quitter </div> <hr> <div> to leave </div> 
-raconter	<div> raconter </div> <hr> <div> to tell, recount </div> 
-ralentir	<div> ralentir </div> <hr> <div> to slow down </div> 
-ranger	<div> ranger </div> <hr> <div> to arrange </div> 
-rappeler	<div> rappeler </div> <hr> <div> to recall </div> 
-rassurer	<div> rassurer </div> <hr> <div> to reassure </div> 
-rater	<div> rater </div> <hr> <div> to miss </div> 
-ravir [qqn]	<div> ravir [qqn] </div> <hr> <div> to thrill [sb]/(literary) abduct [sb] </div> 
-recevoir	<div> recevoir </div> <hr> <div> to receive </div> 
-reconduire	<div> reconduire </div> <hr> <div> to renew </div> 
-reconnaître	<div> reconnaître </div> <hr> <div> to recognize </div> 
-reconstruire	<div> reconstruire </div> <hr> <div> to rebuild </div> 
-recoudre	<div> recoudre </div> <hr> <div> to sew back on </div> 
-recourir	<div> recourir </div> <hr> <div> to run again </div> 
-recouvrir	<div> recouvrir </div> <hr> <div> to recover </div> 
-récrire	<div> récrire </div> <hr> <div> to rewrite </div> 
-recueillir	<div> recueillir </div> <hr> <div> to collect, gather </div> 
-rédiger	<div> rédiger </div> <hr> <div> to write </div> 
-redire	<div> redire </div> <hr> <div> to repeat verbally </div> 
-réduire	<div> réduire </div> <hr> <div> to reduce </div> 
-réélire	<div> réélire </div> <hr> <div> to reelect </div> 
-refaire	<div> refaire </div> <hr> <div> to redo </div> 
-réfléchir	<div> réfléchir </div> <hr> <div> to think </div> 
-refléter	<div> refléter </div> <hr> <div> to reflect </div> 
-refuser	<div> refuser </div> <hr> <div> to refuse </div> 
-regarder	<div> regarder </div> <hr> <div> to look at </div> 
-regretter	<div> regretter </div> <hr> <div> to regret </div> 
-rejeter	<div> rejeter </div> <hr> <div> to reject </div> 
-rejoindre	<div> rejoindre </div> <hr> <div> to rejoin </div> 
-relire	<div> relire </div> <hr> <div> to reread </div> 
-remarquer	<div> remarquer </div> <hr> <div> to notice </div> 
-remercier [qqn] (pour [qch])	<div> remercier [qqn] (pour [qch]) </div> <hr> <div> to thank [sb] (for [sth])/fire </div> 
-remettre	<div> remettre </div> <hr> <div> to put back (on) </div> 
-remoudre	<div> remoudre </div> <hr> <div> to regrind </div> 
-remplacer	<div> remplacer </div> <hr> <div> to replace </div> 
-remplir	<div> remplir </div> <hr> <div> to fill </div> 
-rencontrer	<div> rencontrer </div> <hr> <div> to meet </div> 
-rendre	<div> rendre </div> <hr> <div> to give back </div> 
-renoncer	<div> renoncer </div> <hr> <div> to renounce </div> 
-renouveler	<div> renouveler </div> <hr> <div> to renew </div> 
-rentrer	<div> rentrer </div> <hr> <div> to return home </div> 
-renvoyer	<div> renvoyer </div> <hr> <div> to dismiss </div> 
-répandre	<div> répandre </div> <hr> <div> to spread, spill </div> 
-reparaître	<div> reparaître </div> <hr> <div> to reappear </div> 
-réparer	<div> réparer </div> <hr> <div> to repair </div> 
-repasser	<div> repasser </div> <hr> <div> to iron, to pass again </div> 
-repeindre	<div> repeindre </div> <hr> <div> to repaint </div> 
-repentir (se)	<div> repentir (se) </div> <hr> <div> to repent </div> 
-repérer	<div> repérer </div> <hr> <div> to locate </div> 
-répéter	<div> répéter </div> <hr> <div> to repeat </div> 
-répondre (à [qch])	<div> répondre (à [qch]) </div> <hr> <div> to answer </div> 
-reposer	<div> reposer </div> <hr> <div> to rest </div> 
-reprendre [qch]	<div> reprendre [qch] </div> <hr> <div> to have some more/take [sth] back/take ownership of/take [sth] up again/go over [sth] again/take another look at/recover/(formal) correct/start again </div> 
-réprimander	<div> réprimander </div> <hr> <div> to reprimand </div> 
-reproduire	<div> reproduire </div> <hr> <div> to reproduce </div> 
-résoudre	<div> résoudre </div> <hr> <div> to (re)solve/(formal) dissolve/change </div> 
-ressembler	<div> ressembler </div> <hr> <div> to resemble </div> 
-ressentir	<div> ressentir </div> <hr> <div> to feel </div> 
-rester	<div> rester </div> <hr> <div> to remain </div> 
-restreindre	<div> restreindre </div> <hr> <div> to restrict </div> 
-reteindre	<div> reteindre </div> <hr> <div> to dye again </div> 
-retenir	<div> retenir </div> <hr> <div> to retain </div> 
-retourner	<div> retourner </div> <hr> <div> to return </div> 
-réussir (à faire [qch])	<div> réussir (à faire [qch]) </div> <hr> <div> to succeed (in doing [sth]) </div> 
-réveiller	<div> réveiller </div> <hr> <div> to wake/(figuartive) reawaken </div> 
-révéler	<div> révéler </div> <hr> <div> to reveal/(photography) develop </div> 
-revendiquer	<div> revendiquer </div> <hr> <div> to take responsibility </div> 
-revenir	<div> revenir </div> <hr> <div> to come back </div> 
-rêver	<div> rêver </div> <hr> <div> to dream </div> 
-revêtir	<div> revêtir </div> <hr> <div> to put on </div> 
-revoir	<div> revoir </div> <hr> <div> to see again </div> 
-riposter	<div> riposter </div> <hr> <div> to counteract </div> 
-rire	<div> rire </div> <hr> <div> to laugh </div> 
-rompre	<div> rompre </div> <hr> <div> to break </div> 
-rougir	<div> rougir </div> <hr> <div> to redden, blush </div> 
-rouler	<div> rouler </div> <hr> <div> to roll, to drive (a car) </div> 
-rouvrir	<div> rouvrir </div> <hr> <div> to reopen </div> 
-saillir	<div> saillir </div> <hr> <div> to protrude </div> 
-saisir	<div> saisir </div> <hr> <div> to seize </div> 
-salir	<div> salir </div> <hr> <div> to soil </div> 
-satisfaire	<div> satisfaire </div> <hr> <div> to satisfy </div> 
-sauter	<div> sauter </div> <hr> <div> to jump </div> 
-sauver	<div> sauver </div> <hr> <div> to save, rescue </div> 
-savoir	<div> savoir </div> <hr> <div> to know </div> 
-secouer	<div> secouer </div> <hr> <div> to shake </div> 
-secourir	<div> secourir </div> <hr> <div> to help </div> 
-séduire	<div> séduire </div> <hr> <div> to seduce </div> 
-séjourner	<div> séjourner </div> <hr> <div> to sojourn </div> 
-sembler	<div> sembler </div> <hr> <div> to seem </div> 
-sentir	<div> sentir </div> <hr> <div> to feel, smell </div> 
-séparer	<div> séparer </div> <hr> <div> to separate </div> 
-serrer	<div> serrer </div> <hr> <div> to squeeze/grip/hold/(familiar) hook up/(slang) corner/(slang) put under arrest/(literary) lock/firm up [sth] with sugar </div> 
-servir	<div> servir </div> <hr> <div> to serve </div> 
-siffler	<div> siffler </div> <hr> <div> to whistle </div> 
-signaler	<div> signaler </div> <hr> <div> to signal </div> 
-signer	<div> signer </div> <hr> <div> to sign </div> 
-signifier	<div> signifier </div> <hr> <div> to mean </div> 
-skier	<div> skier </div> <hr> <div> to ski </div> 
-songer	<div> songer </div> <hr> <div> to dream </div> 
-sonner	<div> sonner </div> <hr> <div> to ring </div> 
-sortir	<div> sortir </div> <hr> <div> to go out </div> 
-souffler	<div> souffler </div> <hr> <div> to blow, pant </div> 
-souffrir	<div> souffrir </div> <hr> <div> to suffer </div> 
-souhaiter	<div> souhaiter </div> <hr> <div> to wish </div> 
-souiller	<div> souiller </div> <hr> <div> to soil </div> 
-soumettre	<div> soumettre </div> <hr> <div> to submit </div> 
-sourire	<div> sourire </div> <hr> <div> to smile </div> 
-souscrire	<div> souscrire </div> <hr> <div> to subscribe </div> 
-soutenir	<div> soutenir </div> <hr> <div> to support </div> 
-souvenir (se)	<div> souvenir (se) </div> <hr> <div> to remember </div> 
-subir	<div> subir </div> <hr> <div> to endure </div> 
-subvenir	<div> subvenir </div> <hr> <div> to provide for </div> 
-succomber	<div> succomber </div> <hr> <div> to succumb </div> 
-sucer	<div> sucer </div> <hr> <div> to suck/(familiar) guzzle gas </div> 
-suffire (à [qch])	<div> suffire (à [qch]) </div> <hr> <div> to suffice (for [sth]) </div> 
-suggérer [qch] (à [qqn])	<div> suggérer [qch] (à [qqn]) </div> <hr> <div> to suggest [sth] (to [sb]) </div> 
-suivre	<div> suivre </div> <hr> <div> to follow </div> 
-supplier	<div> supplier </div> <hr> <div> to beg </div> 
-supporter	<div> supporter </div> <hr> <div> to support, endure </div> 
-supposer	<div> supposer </div> <hr> <div> to suppose </div> 
-surprendre	<div> surprendre </div> <hr> <div> to surprise </div> 
-survenir	<div> survenir </div> <hr> <div> to occur </div> 
-survivre	<div> survivre </div> <hr> <div> to survive </div> 
-survoler [qch]	<div> survoler [qch] </div> <hr> <div> to fly over[sth]/glane over [sth]/touch on [sth]/(figurative) ace </div> 
-susciter	<div> susciter </div> <hr> <div> to cause </div> 
-tapoter	<div> tapoter </div> <hr> <div> to tap </div> 
-teindre	<div> teindre </div> <hr> <div> to dye </div> 
-téléphoner	<div> téléphoner </div> <hr> <div> to call </div> 
-tendre	<div> tendre </div> <hr> <div> to strain, strive </div> 
-tenir	<div> tenir </div> <hr> <div> to hold </div> 
-tenter	<div> tenter </div> <hr> <div> to try, to tempt </div> 
-terminer	<div> terminer </div> <hr> <div> to end </div> 
-tirer	<div> tirer </div> <hr> <div> to pull </div> 
-tomber	<div> tomber </div> <hr> <div> to fall </div> 
-tondre	<div> tondre </div> <hr> <div> to shear, mow </div> 
-tonner	<div> tonner </div> <hr> <div> to thunder </div> 
-toquer	<div> toquer </div> <hr> <div> to knock </div> 
-tordre	<div> tordre </div> <hr> <div> to twist </div> 
-toucher	<div> toucher </div> <hr> <div> to affect </div> 
-tourner	<div> tourner </div> <hr> <div> to turn/go around [sth]/function/do good business/film </div> 
-tousser	<div> tousser </div> <hr> <div> to cough </div> 
-tracer	<div> tracer </div> <hr> <div> to draw </div> 
-traduire	<div> traduire </div> <hr> <div> to translate </div> 
-trahir	<div> trahir </div> <hr> <div> to betray </div> 
-traiter	<div> traiter </div> <hr> <div> to treat, to negotiate </div> 
-transcrire	<div> transcrire </div> <hr> <div> to transcribe </div> 
-transmettre	<div> transmettre </div> <hr> <div> to transmit </div> 
-transparaître	<div> transparaître </div> <hr> <div> to show through </div> 
-travailler	<div> travailler </div> <hr> <div> to work </div> 
-traverser	<div> traverser </div> <hr> <div> to cross </div> 
-tressaillir	<div> tressaillir </div> <hr> <div> to shudder </div> 
-tricher	<div> tricher </div> <hr> <div> to trick, cheat </div> 
-tromper	<div> tromper </div> <hr> <div> to deceive, mislead </div> 
-trouver	<div> trouver </div> <hr> <div> to find </div> 
-tuer	<div> tuer </div> <hr> <div> to kill </div> 
-tutoyer	"<div> tutoyer </div> <hr> <div> to use ""tu"" </div> "
-unifier	<div> unifier </div> <hr> <div> to unify/standardize </div> 
-unir	<div> unir </div> <hr> <div> to unite </div> 
-user	<div> user </div> <hr> <div> to wear out </div> 
-utiliser	<div> utiliser </div> <hr> <div> to use </div> 
-vaincre	<div> vaincre </div> <hr> <div> to defeat </div> 
-valoir	<div> valoir </div> <hr> <div> to be worth </div> 
-vanter	<div> vanter </div> <hr> <div> to praise </div> 
-varier	<div> varier </div> <hr> <div> to vary </div> 
-veiller	<div> veiller </div> <hr> <div> to stay up </div> 
-vendre	<div> vendre </div> <hr> <div> to sell </div> 
-venger	<div> venger </div> <hr> <div> to avenge </div> 
-venir	<div> venir </div> <hr> <div> to come </div> 
-verdir	<div> verdir </div> <hr> <div> to turn green </div> 
-vérifier	<div> vérifier </div> <hr> <div> to verify </div> 
-verser	<div> verser </div> <hr> <div> to pour </div> 
-vêtir	<div> vêtir </div> <hr> <div> to clothe </div> 
-vieillir	<div> vieillir </div> <hr> <div> to age/become outmodeled/make [sb] look older </div> 
-viser	<div> viser </div> <hr> <div> to aim </div> 
-visiter	<div> visiter </div> <hr> <div> to visit </div> 
-vivre	<div> vivre </div> <hr> <div> to live </div> 
-voiler	<div> voiler </div> <hr> <div> to veil </div> 
-voir	<div> voir </div> <hr> <div> to see </div> 
-voler	<div> voler </div> <hr> <div> to steal, fly </div> 
-voter	<div> voter </div> <hr> <div> to vote </div> 
-vouloir	<div> vouloir </div> <hr> <div> to want </div> 
-vouvoyer	"<div> vouvoyer </div> <hr> <div> to use ""vous"" </div> "
-voyager	<div> voyager </div> <hr> <div> to travel/be transported </div> 
-warranter	<div> warranter </div> <hr> <div> to guarantee with a warrant </div> 
-zébrer	<div> zébrer </div> <hr> <div> to stripe </div> 
-zézayer	<div> zézayer </div> <hr> <div> to lisp </div> 
-zoner	<div> zoner </div> <hr> <div> to zone </div> 
-s'accrocher	<div> s'accrocher </div> <hr> <div> (figurative) to work hard </div> 
-s'accrocher (sur [qch])	<div> s'accrocher (sur [qch]) </div> <hr> <div> (figuartive) to disagree against each other (about [sth]) </div> 
-s'arranger	<div> s'arranger </div> <hr> <div> to improve/make sure/reach an agreement </div> 
-se coucher	<div> se coucher </div> <hr> <div> to go to bed/tip over/be flattened </div> 
-se modérer	<div> se modérer </div> <hr> <div> to restrain oneself/calm down </div> 
-participer de	<div> participer de </div> <hr> <div> to pertain to </div> 
-reprendre	<div> reprendre </div> <hr> <div> to start (up) again/(plants) grow </div> 
-se reprendre	<div> se reprendre </div> <hr> <div> to pull oneself together/correct oneself </div> 
-s'y reprendre	<div> s'y reprendre </div> <hr> <div> start over </div> 
-se révéler	<div> se révéler </div> <hr> <div> to turn out/become known </div> 
-Il suffit de faire [qch]	<div> Il suffit de faire [qch] </div> <hr> <div> All one has to do is do [sth] </div> 
-Il suffit que [qqn] fasse [qch] pour que [qqn] fasse [qch]	<div> Il suffit que [qqn] fasse [qch] pour que [qqn] fasse [qch] </div> <hr> <div> All [sb] has to do is do [sth] for [sb] to do [sth] </div> 
-tourner [qch] en [qch]	<div> tourner [qch] en [qch] </div> <hr> <div> to turn [sth] into [sth] </div> 
-se tourner vers [qqn]	<div> se tourner vers [qqn] </div> <hr> <div> to turn to [sb] </div> 
-tourner à [qch]	<div> tourner à [qch] </div> <hr> <div> (conversation, situation) to become </div> 
-aller à [qqn]	<div> aller à [qqn] </div> <hr> <div> to look good on [sb] </div> 
-aller avec [qch]	<div> aller avec [qch] </div> <hr> <div> to go well with [sth] </div> 
-approcher de [qch]	<div> approcher de [qch] </div> <hr> <div> to be close to&nbsp; </div> 
-s'augmenter	<div> s'augmenter </div> <hr> <div> to grow </div> 
-se comprendre	<div> se comprendre </div> <hr> <div> to be undersandable/understand each other </div> 
-courir à	<div> courir à </div> <hr> <div> to be heading for [sth] </div> 
-courir après	<div> courir après </div> <hr> <div> to chase after [sth] </div> 
-s'inscrire à [qch]	<div> s'inscrire à [qch] </div> <hr> <div> to sign up for [sth] </div> 
-s'inscrire sur/dans [qch]	<div> s'inscrire sur/dans [qch] </div> <hr> <div> to join/be part of [sth] </div> 
-se présenter contre [qqn]	<div> se présenter contre [qqn] </div> <hr> <div> (politics) to run against&nbsp; </div> 
-répondre de [qch]	<div> répondre de [qch] </div> <hr> <div> to answer for </div> 
-répondre pour [qch]	<div> répondre pour [qch] </div> <hr> <div> to answer for/vouch for </div> 
-résoudre de faire [qch]	<div> résoudre de faire [qch] </div> <hr> <div> to resolve to do [sth] </div> 
-se résoudre en [qch]	<div> se résoudre en [qch] </div> <hr> <div> (formal) to turn into [sth] </div> 
-se réveiller	<div> se réveiller </div> <hr> <div> to wake up/return </div> 
-se teindre	<div> se teindre </div> <hr> <div> to dye one's hair/(literary) be tinged </div> 
-se dégager	<div> se dégager </div> <hr> <div> to waft/emerge </div> 
-se dégager de [qch]	<div> se dégager de [qch] </div> <hr> <div> to excuse oneself </div> 
-s'éteindre	<div> s'éteindre </div> <hr> <div> to turn off/pass away </div> 
-faire de [qch]	<div> faire de [qch] </div> <hr> <div> to play (music, sports)/go (sports)/have (a symptom)/get (a symptom) </div> 
-faire [qch] à	<div> faire [qch] à </div> <hr> <div> to sell [sth] for </div> 
-faire [qch] à [qch]	<div> faire [qch] à [qch] </div> <hr> <div> to wear/break [sth] in </div> 
-faire faire [qch]	<div> faire faire [qch] </div> <hr> <div> to have [sth] done </div> 
-se faire	<div> se faire </div> <hr> <div> to happen/be the done thing/loosen up </div> 
-se faire [qch]	<div> se faire [qch] </div> <hr> <div> to make [sth] for oneself/(money) make/(familiar) have/(informal) get </div> 
-se faire + [infinitif]	<div> se faire + [infinitif] </div> <hr> <div> to be [past participle] </div> 
-se faire à [qch]	<div> se faire à [qch] </div> <hr> <div> to get used to [sth] </div> 
-guérir [qqn] de [qch]	<div> guérir [qqn] de [qch] </div> <hr> <div> to cure [sb] of [sth] </div> 
-se guérir	<div> se guérir </div> <hr> <div> to recover from [sth] </div> 
-guérir de [qch]	<div> guérir de [qch] </div> <hr> <div> to recover from [sth] </div> 
-s'inquiéter de [qch]	<div> s'inquiéter de [qch] </div> <hr> <div> to worry about [sth] </div> 
-s'inquiéter de faire [qch]	<div> s'inquiéter de faire [qch] </div> <hr> <div> to be concerned over [sth] </div> 
-s'inventer [qch]	<div> s'inventer [qch] </div> <hr> <div> to dream up </div> 
-se mouillir	<div> se mouillir </div> <hr> <div> to get wet/(familiar) go out on a limb/(old) have a drinking session </div> 
-ouvrir à [qqn]	<div> ouvrir à [qqn] </div> <hr> <div> to let [sb] in </div> 
-s'ouvrir [qch]	<div> s'ouvrir [qch] </div> <hr> <div> to cut one's [sth] open </div> 
-s'ouvrir sur	<div> s'ouvrir sur </div> <hr> <div> to open onto [sth] </div> 
-s'ouvrir à [qch]	<div> s'ouvrir à [qch] </div> <hr> <div> to discover/open up </div> 
-s'ouvrir à [qqn] de/sur [qch]	<div> s'ouvrir à [qqn] de/sur [qch] </div> <hr> <div> to confide in [sb] about [sth] </div> 
-ouvrir sur	<div> ouvrir sur </div> <hr> <div> to (door) open onto/(window) overlook </div> 
-réussir à [qch]	<div> réussir à [qch] </div> <hr> <div> to pass/be a success for [sb] </div> 
-ne pas réussir à [qqn]	<div> ne pas réussir à [qqn] </div> <hr> <div> to not agree with [sb] </div> 
-se serrer	<div> se serrer </div> <hr> <div> to squeeze oneself/cuddle up to/clench </div> 
-s'abaisser à (faire) [qch]	<div> s'abaisser à (faire) [qch] </div> <hr> <div> to stoop to doing [sth] </div> 
-se résoudre à faire [qch]	<div> se résoudre à faire [qch] </div> <hr> <div> to resolve to do [sth] </div> 
-suggérer (à [qqn]) de faire [qch]	<div> suggérer (à [qqn]) de faire [qch] </div> <hr> <div> to suggest doing [sth]/suggest [sb] does [sth] </div> 
-remercier [qqn] d'avoir fait [qch]	<div> remercier [qqn] d'avoir fait [qch] </div> <hr> <div> to thank [sb] for doing [sth] </div> 
-accepter de faire [qch]	<div> accepter de faire [qch] </div> <hr> <div> to agree to do [sth] </div> 
-s'accompagner	<div> s'accompagner </div> <hr> <div> to be accompanied by [sth] </div> 
-s'accorder	<div> s'accorder </div> <hr> <div> to be compatible/agree/(music) tune up/(grammar) agree </div> 
-s'accorder [qch]	<div> s'accorder [qch] </div> <hr> <div> to treat oneself to [sth] </div> 
-accorder [qch]	<div> accorder [qch] </div> <hr> <div> to (music) tune/(grammar) make [sth] agree </div> 
-accuser [qqn] de [qch]	<div> accuser [qqn] de [qch] </div> <hr> <div> to accuse [sb] of [sth] </div> 
-s'acheter	<div> s'acheter </div> <hr> <div> to sell/buy oneself [sth] </div> 
-s'achever	<div> s'achever </div> <hr> <div> to come to an end </div> 
-acquérir [qqn] à [qch]	<div> acquérir [qqn] à [qch] </div> <hr> <div> to win [sb] over </div> 
-s'adjoindre à [qch]	<div> s'adjoindre à [qch] </div> <hr> <div> to be added to [sth] </div> 
-s'adresser à [qqn]	<div> s'adresser à [qqn] </div> <hr> <div> to ask/speak to [sb]/be addressed to [sb] </div> 
-agir sur [qch]	<div> agir sur [qch] </div> <hr> <div> to have an effect on [sth] </div> 
-s'agir de [qch]	<div> s'agir de [qch] </div> <hr> <div> to be a matter of [sth] </div> 
-aider à	<div> aider à </div> <hr> <div> to assist in [sth] </div> 
-s'aider de [qch]	<div> s'aider de [qch] </div> <hr> <div> to make use of [sth] </div> 
-aimer (à) faire [qch]	<div> aimer (à) faire [qch] </div> <hr> <div> to like doing [sth] </div> 
-aimer que + [subjonctif]	<div> aimer que + [subjonctif] </div> <hr> <div> to like it when </div> 
-s'ajouter	<div> s'ajouter </div> <hr> <div> to be added </div> 
-s'amener	<div> s'amener </div> <hr> <div> (informal) to come along </div> 
-s'amuser	<div> s'amuser </div> <hr> <div> to have fun/mess around </div> 
-s'amuser à faire [qch]	<div> s'amuser à faire [qch] </div> <hr> <div> to entertain oneself by doing [sth] </div> 
-s'amuser de	<div> s'amuser de </div> <hr> <div> to laugh at [sth] </div> 
-s'animer	<div> s'animer </div> <hr> <div> to come to life </div> 
-annoncer [qch] à [qqn]	<div> annoncer [qch] à [qqn] </div> <hr> <div> to announce </div> 
-s'annoncer	<div> s'annoncer </div> <hr> <div> to proclaim oneself/promise to be </div> 
-s'apercevoir de/que	<div> s'apercevoir de/que </div> <hr> <div> to notice </div> 
-s'apercevoir	<div> s'apercevoir </div> <hr> <div> to be visible </div> 
-ne plus s'appartenir	<div> ne plus s'appartenir </div> <hr> <div> to be out of control </div> 
-en appeler à	<div> en appeler à </div> <hr> <div> to appeal to </div> 
-appeler de	<div> appeler de </div> <hr> <div> to appeal against [sth] </div> 
-s'appeler	<div> s'appeler </div> <hr> <div> to be called/call each other </div> 
-apporter [qch] à [qch]	<div> apporter [qch] à [qch] </div> <hr> <div> to bring [sth] to [sth] </div> 
-apprendre [qch] à [qqn]	<div> apprendre [qch] à [qqn] </div> <hr> <div> to teach [sb] [sth]/tell [sb] about [sth] </div> 
-arracher [qch] à [qch]	<div> arracher [qch] à [qch] </div> <hr> <div> to extract [sth] from [sb]/(figurative) tear [sb] away from [sth]/rescue [sb] from [sth]/(figurative) drag [sb] away from [sth] </div> 
-s'arracher	<div> s'arracher </div> <hr> <div> to be torn off </div> 
-(s')arrêter de faire [qch]	<div> (s')arrêter de faire [qch] </div> <hr> <div> to stop doing [sth] </div> 
-ne pas arrêter de faire [qch]	<div> ne pas arrêter de faire [qch] </div> <hr> <div> to keep doing [sth] </div> 
-s'arrêter	<div> s'arrêter </div> <hr> <div> to end/stop/stay </div> 
-s'arrêter sur	<div> s'arrêter sur </div> <hr> <div> to dwell on/settle on [sth] </div> 
-arriver [qch] à [qqn]	<div> arriver [qch] à [qqn] </div> <hr> <div> to happen to [sb] </div> 
-arriver à [qch]	<div> arriver à [qch] </div> <hr> <div> to reach/come to [sth] </div> 
-arriver à faire [qch]	<div> arriver à faire [qch] </div> <hr> <div> to manage to do </div> 
-s'asseoir	<div> s'asseoir </div> <hr> <div> to sit down </div> 
-s'asseoir sur [qch]	<div> s'asseoir sur [qch] </div> <hr> <div> (familiar) to forget about </div> 
-assister à [qch]	<div> assister à [qch] </div> <hr> <div> to witness/be present at [sth] </div> 
-assurer en [qch]	<div> assurer en [qch] </div> <hr> <div> to be good at [sth] </div> 
-s'assurer de [qch]	<div> s'assurer de [qch] </div> <hr> <div> to make sure of/guarantee/(literary) apprehend </div> 
-s'assurer que	<div> s'assurer que </div> <hr> <div> to make sure that </div> 
-s'attaquer à [qch]	<div> s'attaquer à [qch] </div> <hr> <div> to attack/criticize/tackle </div> 
-attendre que [qch] fasse [qch]	<div> attendre que [qch] fasse [qch] </div> <hr> <div> to wait for [sth] </div> 
-attendre [qch] de [qqn]	<div> attendre [qch] de [qqn] </div> <hr> <div> to expect [sth] from [sb] </div> 
-s'attendre à [qch]	<div> s'attendre à [qch] </div> <hr> <div> to expect </div> 
-s'attraper	<div> s'attraper </div> <hr> <div> to be caught/catch </div> 
-avancer que [indicatif/conditionnel]	<div> avancer que [indicatif/conditionnel] </div> <hr> <div> to suggest </div> 
-s; avancer	<div> s; avancer </div> <hr> <div> to move forward/make progress/get ahead of oneself </div> 
-s'aventurer à faire [qch]	<div> s'aventurer à faire [qch] </div> <hr> <div> to venture to do [sth] </div> 
-avoir raison de [qch]	<div> avoir raison de [qch] </div> <hr> <div> to conquer </div> 
-avoir raison de faire [qch]	<div> avoir raison de faire [qch] </div> <hr> <div> to be right to do [sth] </div> 
-se balancer	<div> se balancer </div> <hr> <div> to swing </div> 
-s'en balancer	<div> s'en balancer </div> <hr> <div> (familiar) to not care about [sth] </div> 
-se blanchir	<div> se blanchir </div> <hr> <div> to prove one's innocence </div> 
-se blesser	<div> se blesser </div> <hr> <div> to hurt oneself/be hurt </div> 
-se boire	<div> se boire </div> <hr> <div> to be drunk </div> 
-se bouger	<div> se bouger </div> <hr> <div> to stir oneself </div> 
-briser avec [qqn]	<div> briser avec [qqn] </div> <hr> <div> (familiar) to break up with [sb] </div> 
-se brosser [qch]	<div> se brosser [qch] </div> <hr> <div> to bruh one's [sth] </div> 
-se casser	<div> se casser </div> <hr> <div> to break/(slang) leave </div> 
-céder [qch] à [qqn]	<div> céder [qch] à [qqn] </div> <hr> <div> to let [sb] have [sth]/hand [sth] over to [sb] </div> 
-ne cesser de faire [qch]	<div> ne cesser de faire [qch] </div> <hr> <div> (a bit formal) to keep doing [sth] </div> 
-changer de [qch]	<div> changer de [qch] </div> <hr> <div> to alter/switch </div> 
-se changer (en)	<div> se changer (en) </div> <hr> <div> to get changed/transform into [sth] </div> 
-chanter à [qqn]	<div> chanter à [qqn] </div> <hr> <div> (familiar) to feel like [sth] </div> 
-se charger de [qch]	<div> se charger de [qch] </div> <hr> <div> to take care of [sth] </div> 
-se charger de faire [qch]	<div> se charger de faire [qch] </div> <hr> <div> to take on doing [sth] </div> 
-se chercher	<div> se chercher </div> <hr> <div> to look for each other/try to find oneself </div> 
-chercher à faire [qch]	<div> chercher à faire [qch] </div> <hr> <div> to try to do [sth] </div> 
-coller à [qch]	<div> coller à [qch] </div> <hr> <div> to stick to [sth]/tally with/tailgate </div> 
-se coller ([qch])	<div> se coller ([qch]) </div> <hr> <div> to huddle together/be stuck doing ([sth]) </div> 
-commander à [qqn] de faire [qch]	<div> commander à [qqn] de faire [qch] </div> <hr> <div> to order [sb] to do [sth] </div> 
-se commander	<div> se commander </div> <hr> <div> to be controller </div> 
-commettre [qqn] à [qqn]	<div> commettre [qqn] à [qqn] </div> <hr> <div> to assign [sb] to [sb] </div> 
-se commettre (avec)	<div> se commettre (avec) </div> <hr> <div> (literary) to frequent </div> 
-se compléter	<div> se compléter </div> <hr> <div> to complement each other/be coming together </div> 
-compter faire [qch]	<div> compter faire [qch] </div> <hr> <div> to intend to do [sth] </div> 
-compter sur [qch]	<div> compter sur [qch] </div> <hr> <div> to count on [sth] </div> 
-se concevoir	<div> se concevoir </div> <hr> <div> to be conceived/be conceivable </div> 
-conclure à	<div> conclure à </div> <hr> <div> to decide that </div> 
-se conduire	<div> se conduire </div> <hr> <div> to behave </div> 
-se confondre (avec [qch])	<div> se confondre (avec [qch]) </div> <hr> <div> to become confused/merge (into [sth])/coincide/babble (words) </div> 
-s'y connaître en	<div> s'y connaître en </div> <hr> <div> to know all about </div> 
-conseillir [qch] à [qqn]	<div> conseillir [qch] à [qqn] </div> <hr> <div> to recommend [sth] to [sb] </div> 
-conseiller à [qqn] de faire [qch]	<div> conseiller à [qqn] de faire [qch] </div> <hr> <div> to advise [sb] to do [sth] </div> 
-conseiller [qqn] sur [qch]	<div> conseiller [qqn] sur [qch] </div> <hr> <div> to advise [sb] on [sth] </div> 
-se construire	<div> se construire </div> <hr> <div> to be constructed/shape one's personality/be formed </div> 
-continuer à/de faire [qch]	<div> continuer à/de faire [qch] </div> <hr> <div> to be still [present participle or adjective] or still do [sth] </div> 
-convaincre [qqn] de [qch]	<div> convaincre [qqn] de [qch] </div> <hr> <div> to convict [sb] of [sth] </div> 
-convenir de [qch]	<div> convenir de [qch] </div> <hr> <div> to admit to [sth] </div> 
-convenir de faire [qch]	<div> convenir de faire [qch] </div> <hr> <div> to agree to do [sth] </div> 
-convenir que	<div> convenir que </div> <hr> <div> to admit that </div> 
-correspondre à [qch]	<div> correspondre à [qch] </div> <hr> <div> to equal/correspond to [sth]/correspond with [sth]/be like [sb] </div> 
-correspondre avec [qch]	<div> correspondre avec [qch] </div> <hr> <div> to correspond with [sb]/communicate with [sth] </div> 
-se corrompre	<div> se corrompre </div> <hr> <div> to be corrupted </div> 
-se couper	<div> se couper </div> <hr> <div> to cut oneself (off)/cross/contradict oneself </div> 
-couper à [qch]	<div> couper à [qch] </div> <hr> <div> (familiar) to get out of [sth] </div> 
-couvrir [qqn] de [qch]	<div> couvrir [qqn] de [qch] </div> <hr> <div> (figurative) to cover [sb] with [sth] </div> 
-se couvrir (de [qch])	<div> se couvrir (de [qch]) </div> <hr> <div> to get cloudy/dress warmly/put on a hat/be covered with [sth]/(figurative) cover onself with [sth] </div> 
-craindre de faire [qch]	<div> craindre de faire [qch] </div> <hr> <div> to be afraid of doing [sth] </div> 
-craindre que + [subjonctif]	<div> craindre que + [subjonctif] </div> <hr> <div> to be worried that + [indicative] </div> 
-se créer	<div> se créer </div> <hr> <div> to be created/create [sth] for oneself </div> 
-croire que + [indicatif]	<div> croire que + [indicatif] </div> <hr> <div> to think that </div> 
-croire faire [qch]	<div> croire faire [qch] </div> <hr> <div> to think + [indicative] </div> 
-croire à/en [qqn]	<div> croire à/en [qqn] </div> <hr> <div> to believe in [sth] </div> 
-se croire	<div> se croire </div> <hr> <div> to think of being </div> 
-en cuire à [qqn]	<div> en cuire à [qqn] </div> <hr> <div> to get burned </div> 
-se débattre	<div> se débattre </div> <hr> <div> to struggle </div> 
-se déchirer ([qch])	<div> se déchirer ([qch]) </div> <hr> <div> to tear (a muscle)/tear each other apart </div> 
-décider de faire [qch]	<div> décider de faire [qch] </div> <hr> <div> to decide to do [sth] </div> 
-décider [qqn] à faire [qch]	<div> décider [qqn] à faire [qch] </div> <hr> <div> to persuade [sb] to do [sth] </div> 
-se décider pour [qch]	<div> se décider pour [qch] </div> <hr> <div> to decide on [sth] </div> 
-se découdre	<div> se découdre </div> <hr> <div> to come unstitched </div> 
-se découvrir	<div> se découvrir </div> <hr> <div> to take off one's hat/take off a layer/throw off the bedclothes/(weather) clear up/discover [sth]/find </div> 
-se dédire de	<div> se dédire de </div> <hr> <div> (literary) to go back on [sth] </div> 
-déduire [qch] de [qch]	<div> déduire [qch] de [qch] </div> <hr> <div> to deduct </div> 
-se défaire	<div> se défaire </div> <hr> <div> to come undone </div> 
-se défaire de [qch]	<div> se défaire de [qch] </div> <hr> <div> to get rid of [sth]/part with [sth] </div> 
-défendre à [qqn] de faire [qch]	<div> défendre à [qqn] de faire [qch] </div> <hr> <div> to ban [sb] from doing [sth] </div> 
-se défendre (de [qch])	<div> se défendre (de [qch]) </div> <hr> <div> to defend oneself (against [sth])/take care of oneself </div> 
-se défendre en [qch]	<div> se défendre en [qch] </div> <hr> <div> to do well in [sth] </div> 
-demander à [qqn] de faire [qch]	<div> demander à [qqn] de faire [qch] </div> <hr> <div> to ask [sb] to do [sth] </div> 
-demander [qch] de [qqn]	<div> demander [qch] de [qqn] </div> <hr> <div> to ask for [sth] from [sb] </div> 
-se départir	<div> se départir </div> <hr> <div> to lose </div> 
-se dépêcher	<div> se dépêcher </div> <hr> <div> to hurry </div> 
-défendre de	<div> défendre de </div> <hr> <div> to depend on [sb] (for money)/report to [sb]/be up to [sb] </div> 
-se dépenser	<div> se dépenser </div> <hr> <div> to exert oneself </div> 
-n'en déplaise à	<div> n'en déplaise à </div> <hr> <div> with all due respect to </div> 
-se déplaire	<div> se déplaire </div> <hr> <div> to be unhappy </div> 
-se dérenger	<div> se dérenger </div> <hr> <div> to come out/step aside </div> 
-descendre dans	<div> descendre dans </div> <hr> <div> to raid </div> 
-descendre en [qch]	<div> descendre en [qch] </div> <hr> <div> to fall back into [sth] </div> 
-se dessiner	<div> se dessiner </div> <hr> <div> to materialize/take shape </div> 
-déteindre sur [qch]	<div> déteindre sur [qch] </div> <hr> <div> to bleed onto [sth]/influence [sb] </div> 
-se détourner (de [qch])	<div> se détourner (de [qch]) </div> <hr> <div> to turn away (from) </div> 
-devoir [qch] à [qch]	<div> devoir [qch] à [qch] </div> <hr> <div> to owe </div> 
-se devoir de faire [qch]	<div> se devoir de faire [qch] </div> <hr> <div> to have to do [sth] </div> 
-différer de	<div> différer de </div> <hr> <div> to differ from </div> 
-différer sur	<div> différer sur </div> <hr> <div> to differ on </div> 
-dîner de	<div> dîner de </div> <hr> <div> to dine on [sth] </div> 
-dire à [qqn] de faire [qch]	<div> dire à [qqn] de faire [qch] </div> <hr> <div> to tell [sb] to do [sth] </div> 
-dire [qch] à [qqn]	<div> dire [qch] à [qqn] </div> <hr> <div> to remind [sb] of [sb] </div> 
-se dire	<div> se dire </div> <hr> <div> to be said/say to oneself/claim to be [sth] </div> 
-se diriger vers [qch]	<div> se diriger vers [qch] </div> <hr> <div> to head for [sth]/go into </div> 
-se discuter	<div> se discuter </div> <hr> <div> to be debated </div> 
-discuter (de [qch]) avec [qqn]	<div> discuter (de [qch]) avec [qqn] </div> <hr> <div> to talk to [sb] (about [sth]) </div> 
-divorcer de [qqn]	<div> divorcer de [qqn] </div> <hr> <div> to get divorced from [sb] </div> 
-se donner	<div> se donner </div> <hr> <div> to put oneself out/play </div> 
-donner sur	<div> donner sur </div> <hr> <div> to overlook </div> 
-se doubler de [qch]	<div> se doubler de [qch] </div> <hr> <div> to also be a [sth] </div> 
-douter de [qch]/pouvoir faire [qch]	<div> douter de [qch]/pouvoir faire [qch] </div> <hr> <div> to doubt </div> 
-se douter de/que	<div> se douter de/que </div> <hr> <div> to suspect </div> 
-douter que + [subjonctif]	<div> douter que + [subjonctif] </div> <hr> <div> to doubt whether </div> 
-s'échapper	<div> s'échapper </div> <hr> <div> to escape (reality)/slip away from </div> 
-s'écouter	<div> s'écouter </div> <hr> <div> should be listened to/to care of oneself </div> 
-s'écrire	<div> s'écrire </div> <hr> <div> to spell/be written </div> 
-s'effacer	<div> s'effacer </div> <hr> <div> to fade/step aside </div> 
-s'éloigner (de [qch])	<div> s'éloigner (de [qch]) </div> <hr> <div> to move away/get away (from [sth])/digress (from [sth])/grow apart (from [sb]) </div> 
-ne pas pouvoir s'empêcher de	<div> ne pas pouvoir s'empêcher de </div> <hr> <div> can't help doing [sth] </div> 
-s'employer à faire [qch]	<div> s'employer à faire [qch] </div> <hr> <div> (formal) to work on doing [sth] </div> 
-engager [qqn] à [qch]	<div> engager [qqn] à [qch] </div> <hr> <div> to encourage [sb] to do [sth]/oblige </div> 
-s'engager dans [qch]	<div> s'engager dans [qch] </div> <hr> <div> to enroll in [sth]/engage in [sth]/enter </div> 
-s'engager à faire [qch]	<div> s'engager à faire [qch] </div> <hr> <div> to commit to doing [sth] </div> 
+abaisser
+abasourdir
+abattre
+abolir
+absoudre
+abstenir (s')
+accepter
+acclamer
+accompagner
+accorder
+accourir
+accrocher
+accueillir
+accuser
+acheter
+achever
+acquérir
+adjoindre
+admettre
+admirer
+adorer
+adresser
+advenir
+affaiblir
+agacer
+agir
+aider
+aimer
+ajouter
+aller
+aménager
+amener
+amuser
+animer
+annoncer
+apercevoir
+apparaître
+appartenir
+appeler
+apporter
+apprendre
+approcher
+approuver
+armer
+arracher
+arraisonner
+arranger
+arrêter
+arriver
+assaillir
+asseoir
+assister
+assurer
+astreindre
+attaquer
+atteindre
+attendre
+attirer
+attraper
+augmenter
+avancer
+aventurer
+avoir
+baisser
+balancer
+balayer
+bâtir
+battre
+bavarder
+bêler
+bénir
+blaguer
+blâmer
+blanchir
+blesser
+boire
+bouger
+bouillir
+briser
+brosser
+broyer
+brûler
+cacher
+casser
+causer
+céder
+ceindre
+célébrer
+cesser
+changer
+chanter
+charger
+chasser
+cheminer
+chercher
+chérir
+choisir
+chuchoter
+circoncire
+circonscrire
+circonvenir
+clore
+coller
+combattre
+commander
+commencer
+commettre
+comparaître
+comparer
+compléter
+comprendre
+compter
+concevoir
+conclure
+concourir
+conduire
+confire
+confondre
+conjoindre
+connaître
+conquérir
+conseiller
+consentir
+considérer
+consommer
+construire
+contenir
+conter
+continuer
+contraindre
+contredire
+contrevenir
+contrôler
+convaincre
+convenir
+correspondre
+corriger
+corrompre
+coucher
+coudre
+couper
+courir
+coûter
+couvrir
+craindre
+créer
+crier
+croire
+cueillir
+cuire
+culpabiliser
+danser
+débattre
+décevoir
+déchirer
+décider
+déclore
+déconfire
+découdre
+décourager
+découvrir
+décrire
+dédire (se)
+déduire
+défaillir
+défaire
+défendre
+défricher
+dégager
+déjeuner
+demander
+déménager
+demeurer
+démolir
+dénoncer
+départir
+dépasser
+dépêcher
+dépeindre
+dépendre
+dépenser
+déplaire
+déranger
+descendre
+désirer
+désobéir
+dessiner
+déteindre
+détenir
+détester
+détourner
+détruire
+développer
+devenir
+dévêtir
+deviner
+devoir
+différer
+diminuer
+dîner
+dire
+diriger
+discourir
+discuter
+disjoindre
+disparaître
+dissoudre
+divorcer
+donner
+dormir
+doubler
+douter
+échapper
+échouer
+éclore
+éconduire
+écouter
+écraser
+écrire
+effacer
+effrayer
+égayer
+élever
+élire
+éloigner
+embrasser
+emmener
+émoudre
+emparer
+empêcher
+employer
+empreindre
+emprunter
+enclore
+encourager
+encourir
+endormir
+enduire
+enfreindre
+enfuir (s')
+engager
+enjoindre
+enlever
+ennuyer
+énoncer
+enquérir (s')
+enregistrer
+enseigner
+ensuivre (s')
+entendre
+enterrer
+entraîner
+entreprendre
+entrer
+entretenir
+entrouvrir
+envoler
+envoyer
+épeler
+épouser
+épreindre
+éprouver
+équivaloir
+espérer
+essayer
+essuyer
+estimer
+établir
+éteindre
+étendre
+étonner
+étourdir
+être
+étreindre
+étudier
+évaluer
+éviter
+exagérer
+exclure
+excuser
+exiger
+exister
+expliquer
+explorer
+exprimer
+fâcher
+faiblir
+faillir
+faire
+falloir
+feindre
+féliciter
+fendre
+fermer
+feuilleter
+fier
+finir
+fixer
+fonder
+fondre
+forcer
+forclore
+fouiller
+fournir
+frapper
+frémir
+frire
+fuir
+fumer
+gagner
+garder
+gaspiller
+gâter
+geindre
+geler
+gêner
+gérer
+goûter
+grandir
+gratter
+grêler
+grimper
+gronder
+guérir
+habiller
+habiter
+haïr
+hésiter
+hoqueter
+ignorer
+imposer
+inclure
+indiquer
+induire
+informer
+inquiéter
+inscrire
+insister
+instruire
+interdire
+intéresser
+interroger
+interroger
+interrompre
+intervenir
+introduire
+inventer
+inviter
+jaillir
+jaser
+jaunir
+jeter
+joindre
+jouer
+jouir
+juger
+jurer
+kidnapper
+klaxonner
+lâcher
+laisser
+lancer
+laver
+lever
+lire
+loger
+louer
+luire
+maigrir
+maintenir
+manger
+manquer
+marcher
+maudire
+méconnaître
+médire
+méfier
+mélanger
+menacer
+mener
+mentir
+méprendre
+mépriser
+mériter
+mesurer
+mettre
+modérer
+monter
+montrer
+moquer
+mordre
+moudre
+mouiller
+mourir
+nager
+naître
+naviguer
+négliger
+négocier
+neiger
+nettoyer
+neutraliser
+nier
+noircir
+nommer
+noter
+nouer
+nourrir
+noyer
+nuire
+obéir
+obliger
+obtenir
+occlure
+occuper
+offrir
+oindre
+omettre
+oser
+oublier
+ouvrir
+paraître
+parcourir
+pardonner
+parler
+partager
+participer
+partir
+parvenir
+passer
+patiner
+payer
+pécher
+pêcher
+peigner
+peindre
+peler
+pendre
+pénétrer
+penser
+percevoir
+perdre
+périr
+permettre
+persuader
+peser
+pianoter
+placer
+plaindre
+plaire
+plaisanter
+planter
+pleurer
+pleuvoir
+plier
+plonger
+poindre
+pondre
+porter
+poser
+posséder
+poursuivre
+pousser
+pouvoir
+prédire
+préférer
+prendre
+préparer (parer)
+prescrire
+présenter
+pressentir
+presser
+prétendre
+prêter
+prévaloir (se)
+prévenir
+prévoir
+prier
+produire
+projeter
+promener
+promettre
+prononcer
+proposer
+proscrire
+protéger
+prouver
+provenir
+puer
+punir
+quérir
+quitter
+raconter
+ralentir
+ranger
+rappeler
+rassurer
+rater
+ravir
+recevoir
+reconduire
+reconnaître
+reconstruire
+recoudre
+recourir
+recouvrir
+récrire
+recueillir
+rédiger
+redire
+réduire
+réélire
+refaire
+réfléchir
+refléter
+refuser
+regarder
+regretter
+rejeter
+rejoindre
+relire
+remarquer
+remercier
+remettre
+remoudre
+remplacer
+remplir
+rencontrer
+rendre
+renoncer
+renouveler
+rentrer
+renvoyer
+répandre
+reparaître
+réparer
+repasser
+repeindre
+repentir (se)
+repérer
+répéter
+répondre
+reposer
+reprendre
+réprimander
+reproduire
+résoudre
+ressembler
+ressentir
+rester
+restreindre
+reteindre
+retenir
+retourner
+réussir
+réveiller
+révéler
+revendiquer
+revenir
+rêver
+revêtir
+revoir
+riposter
+rire
+rompre
+rougir
+rouler
+rouvrir
+saillir
+saisir
+salir
+satisfaire
+sauter
+sauver
+savoir
+secouer
+secourir
+séduire
+séjourner
+sembler
+sentir
+séparer
+serrer
+servir
+siffler
+signaler
+signer
+signifier
+skier
+songer
+sonner
+sortir
+souffler
+souffrir
+souhaiter
+souiller
+soumettre
+sourire
+souscrire
+soutenir
+souvenir (se)
+subir
+subvenir
+succomber
+sucer
+suffire
+suggérer
+suivre
+supplier
+supporter
+supposer
+surprendre
+survenir
+survivre
+survoler
+susciter
+tapoter
+teindre
+téléphoner
+tendre
+tenir
+tenter
+terminer
+tirer
+tomber
+tondre
+tonner
+toquer
+tordre
+toucher
+tourner
+tousser
+tracer
+traduire
+trahir
+traiter
+transcrire
+transmettre
+transparaître
+travailler
+traverser
+tressaillir
+tricher
+tromper
+trouver
+tuer
+tutoyer
+unifier
+unir
+user
+utiliser
+vaincre
+valoir
+vanter
+varier
+veiller
+vendre
+venger
+venir
+verdir
+vérifier
+verser
+vêtir
+vieillir
+viser
+visiter
+vivre
+voiler
+voir
+voler
+voter
+vouloir
+vouvoyer
+voyager
+warranter
+zébrer
+zézayer
+zoner
