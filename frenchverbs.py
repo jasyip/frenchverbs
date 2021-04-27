@@ -36,10 +36,12 @@ class WordReference:
                                 translations[main_translation] = []
                             translations[main_translation].append(set())
                     if main_translation is not None:
+                        for unnecessary_tag in to_word_tag.find_all(["a", "em"]):
+                            unnecessary_tag.decompose()
                         translations[main_translation][-1].update(
                                 [synonym.strip() for synonym in
-                                list(to_word_tag.strings)[0].split(",")])
-
+                                ' '.join(s.strip() for s in to_word_tag.strings).split(",")])
+        """
         for k, definitions in translations.items():
             i = 0
             while i < len(definitions):
@@ -53,7 +55,7 @@ class WordReference:
                 definitions[i] = min(definition, key = lambda s: len(s) + 0.125 * s.count(' '))
             translations[k] = definitions
             translations[k].sort(key = len)
-
+        """
 
         return translations
 
