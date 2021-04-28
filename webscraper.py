@@ -32,7 +32,8 @@ class WordReference:
                     from_word_tag = translation.find("td", attrs = {"class" : "FrWrd"})
                     if from_word_tag is not None:
                         word_type = list(from_word_tag.find("em").strings)
-                        if len(word_type) > 0 and word_type[0][0] != "v":
+                        if (len(word_type) > 0 and word_type[0][0] != "v" or
+                                translation.find(attrs = {"class" : "Fr2"})):
                             main_translation = None
                             continue
                         for unnecessary_tag in from_word_tag.strong.find_all("a"):
@@ -44,8 +45,7 @@ class WordReference:
                         translations[main_translation].append([])
 
                 if main_translation is not None and "(UK)":
-                    possible_dialect = translation.find(attrs = { "class" : "To2" })
-                    if possible_dialect and "(UK)" in possible_dialect.text:
+                    if translation.find(attrs = { "class" : "To2" }):
                         continue
                     for unnecessary_tag in to_word_tag.find_all(["a", "em"]):
                         unnecessary_tag.decompose()
@@ -58,8 +58,8 @@ class WordReference:
         return translations
 
 def parse_manual(answer):
-    answer = re.sub(r"^to", "",
-            re.sub(r"(?<!\s)\([^/]*?\)", "", re.sub(r"^to\s*", "", answer))).strip()
+    if re.match(r"(\([^)]*?\))?\s*to", answer):
+        answer = answer.replace("to", "", 1).strip()
     parens_matches = list(re.finditer(r"\(.*?\)", answer))
     split_inds = []
     for slash in list(re.finditer(r"/", answer))[::-1]:
@@ -73,14 +73,13 @@ def parse_manual(answer):
     split_inds.append(None)
     l = [answer[split_inds[i] + bool(i) : split_inds[i + 1]].strip()
             for i in range(len(split_inds) - 1)]
+    return list(filter(lambda synonym: not bool(re.search(r"\([^/)]*\)", synonym)), l))
 
     return l
 
 if __name__ == "__main__":
     wr = WordReference()
-    with open(sys.argv[1], 'r', encoding='utf8') as f:
-        manual_translations = dict([ translation.split("\t") for translation in f.readlines() ])
-    """
+
     with open(sys.argv[2], 'r', encoding='utf8') as f:
         verbs = f.readlines()
     automatic_translations = {}
@@ -90,16 +89,17 @@ if __name__ == "__main__":
         verbs[i] = verb
         print(verb)
         automatic_translations.update(wr.scrape(verb))
-    """
-    #pp = pprint.PrettyPrinter(indent=4)
-    #pp.pprint(automatic_translations)
-    """
+
     with open(datetime.datetime.now().strftime("%y%m%d_%H%M%S") + "_automatic.json", "w",
             encoding="utf-8") as f:
         json.dump(automatic_translations, f, ensure_ascii=False)
+
     """
+    with open(sys.argv[1], 'r', encoding='utf8') as f:
+        manual_translations = dict([ translation.split("\t") for translation in f.readlines() ])
     for k, v in manual_translations.items():
         manual_translations[k] = parse_manual(v)
     with open(datetime.datetime.now().strftime("%y%m%d_%H%M%S") + "_manual.json", "w",
             encoding="utf-8") as f:
         json.dump(manual_translations, f, ensure_ascii=False)
+    """
