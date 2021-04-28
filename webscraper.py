@@ -45,7 +45,7 @@ class WordReference:
                         translations[main_translation].append([])
 
                 if main_translation is not None and "(UK)":
-                    if translation.find(attrs = { "class" : "To2" }):
+                    if translation.find(attrs = { "class" : "dsense" }):
                         continue
                     for unnecessary_tag in to_word_tag.find_all(["a", "em"]):
                         unnecessary_tag.decompose()
@@ -53,9 +53,10 @@ class WordReference:
                             [re.sub(r"\s(?=\s|$)|/s\w{1,2}", "", synonym).strip() for synonym in
                             to_word_tag.text.split(",")])
 
-        
+        for k, v in translations.items():
+            translations[k] = list(filter(lambda x: x, v))
 
-        return translations
+        return filter(lambda x: x[1], translations.items())
 
 def parse_manual(answer):
     if re.match(r"(\([^)]*?\))?\s*to", answer):
@@ -74,8 +75,6 @@ def parse_manual(answer):
     l = [answer[split_inds[i] + bool(i) : split_inds[i + 1]].strip()
             for i in range(len(split_inds) - 1)]
     return list(filter(lambda synonym: not bool(re.search(r"\([^/)]*\)", synonym)), l))
-
-    return l
 
 if __name__ == "__main__":
     wr = WordReference()
