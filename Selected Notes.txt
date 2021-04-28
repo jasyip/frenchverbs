@@ -105,7 +105,7 @@ clore	to close/shut off/fence off
 coller	to stick/press/tailgate/(familiar) cling to/(familiar) give/(familiar) give [sb] detention/(familiar) put [sb] with/(familiar) stump/(familiar) flunk/add aspic to/(wine making) clarify
 combattre	to combat/fight
 commander	to be in charge (of [sth])/order/require/be in control of/operate
-commencer (à faire [qch]/par faire [qch])	to start (to do [sth]/by doing [sth])/start to get [sth]/start with
+commencer (à/par) faire [qch]	to start (to do [sth]/by doing [sth])/start to get [sth]/start with
 commettre	to commit/(familiar) scribble
 comparaître	to appear before
 comparer	to compare

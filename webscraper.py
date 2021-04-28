@@ -58,7 +58,9 @@ class WordReference:
         return translations
 
 def parse_manual(answer):
-    parens_matches = re.finditer(r"\(.*?\)", answer)
+    answer = re.sub(r"^to", "",
+            re.sub(r"(?<!\s)\([^/]*?\)", "", re.sub(r"^to\s*", "", answer))).strip()
+    parens_matches = list(re.finditer(r"\(.*?\)", answer))
     split_inds = []
     for slash in list(re.finditer(r"/", answer))[::-1]:
         for parens in parens_matches:
@@ -69,10 +71,9 @@ def parse_manual(answer):
     split_inds.append(0)
     split_inds.reverse()
     split_inds.append(None)
-    l = [answer[split_inds[i] + bool(i) : split_inds[i + 1]] for i in range(len(split_inds) - 1)]
+    l = [answer[split_inds[i] + bool(i) : split_inds[i + 1]].strip()
+            for i in range(len(split_inds) - 1)]
 
-    for i, synonym in enumerate(l):
-        l[i] = re.sub(r"^to", "", re.sub(r"\([^/]*?\)", "", synonym).strip()).strip()
     return l
 
 if __name__ == "__main__":
