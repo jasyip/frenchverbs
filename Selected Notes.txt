@@ -1,4 +1,4 @@
-abaisser	to lower/humiliate/(cookery) roll [sth] out/(cookery) place
+aabaisser	to lower/humiliate/(cookery) roll [sth] out/(cookery) place
 abasourdir	to (literary) deafen/(figuartive) dumbfound
 abattre [qch]	to knock [sth] down/cut [sth] down/slaughter/(informal) get through (a lot of work)/lay (a card) down
 abolir	to abolish
@@ -6,7 +6,7 @@ absoudre [qqn]	to absolve/(figurative) pardon/acquit
 s'abstenir (de faire [qch])	to abstain/refrain from doing [sth]/stop doing [sth]
 accepter	to accept/let [sb] in/allow
 acclamer	to cheer/acclaim
-accompagner	to accompagny/escort/care for [sb]/go well with [sth]
+accompagner	to accompany/escort/care for [sb]/go well with [sth]
 accorder [qch] à [qqn]	to agree to [sth] with [sb]/offer [sb] [sth]
 accourir	to come running
 accrocher	to hang ([sth] up)/not skid/(familiar) get along
@@ -61,8 +61,6 @@ augmenter	to increase (pay of [sb])/raise price of [sth]
 avancer	to move forward/progress/be fast/move [sth] forward/put [sth] forward/bring [sth] forward/ claim/protrude/help [sb] to get on more quickly/lend
 aventurer	to venture
 avoir	to have/(age) be
-avoir (grand) besoin de [qqch]	to (really) need
-avoir raison	to be right
 baisser	to lower/dim
 balancer	to swing/(familiar) drop/(familiar) throw away/(literary) be undecided/(familiar) snitch on/balance
 balayer	to sweep ([sth] away)/(figurative, familiar) fire/
@@ -105,12 +103,12 @@ clore	to close/shut off/fence off
 coller	to stick/press/tailgate/(familiar) cling to/(familiar) give/(familiar) give [sb] detention/(familiar) put [sb] with/(familiar) stump/(familiar) flunk/add aspic to/(wine making) clarify
 combattre	to combat/fight
 commander	to be in charge (of [sth])/order/require/be in control of/operate
-commencer (à/par) faire [qch]	to start (to do [sth]/by doing [sth])/start to get [sth]/start with
+commencer (à faire [qch]/par faire [qch])	to start (to do [sth]/by doing [sth])/start to get [sth]/start with
 commettre	to commit/(familiar) scribble
 comparaître	to appear before
 comparer	to compare
 compléter	to complete/expand on [sth]
-comprendre	to understand/include/incorportate
+comprendre	to understand/include/incorporate
 compter	to count ([sth] up)/add up/include/allow/charge/pay up [sth]/pay attention to [sth]
 concevoir	to design/perceive/understand/feel/conceive
 conclure	to end/conclude
@@ -158,7 +156,7 @@ déchirer	to rip/(figurative) tear [sb] apart/(figurative) hurt/(familiar) be aw
 décider	to decide (on [sth])
 découdre	to rip the seam from [sth]
 décourager [qch] (de faire [qch])	to discourage ([sb] from doing [sth])
-découvrir [qch]	to uncover/discover/dislose [sth]/find/leave [sth] vulnerable
+découvrir [qch]	to uncover/discover/disclose [sth]/find/leave [sth] vulnerable
 décrire	to describe
 se dédire	to recant
 déduire	to deduce
@@ -281,7 +279,7 @@ sucer	to suck/(familiar) guzzle gas
 suffire (à [qch])	to suffice (for [sth])
 suggérer [qch] (à [qqn])	to suggest [sth] (to [sb])
 survenir	to occur
-survoler [qch]	to fly over[sth]/glane over [sth]/touch on [sth]/(figurative) ace
+survoler [qch]	to fly over[sth]/glance over [sth]/touch on [sth]/(figurative) ace
 teindre	to dye
 tourner	to turn/go around [sth]/function/do good business/film
 unifier	to unify/standardize
@@ -306,7 +304,7 @@ aller à [qqn]	to look good on [sb]
 aller avec [qch]	to go well with [sth]
 approcher de [qch]	to be close to
 s'augmenter	to grow
-se comprendre	to be undersandable/understand each other
+se comprendre	to be understandable/understand each other
 courir à	to be heading for [sth]
 courir après	to chase after [sth]
 s'inscrire à [qch]	to sign up for [sth]
@@ -335,7 +333,7 @@ guérir de [qch]	to recover from [sth]
 s'inquiéter de [qch]	to worry about [sth]
 s'inquiéter de faire [qch]	to be concerned over [sth]
 s'inventer [qch]	to dream up
-se mouillir	to get wet/(familiar) go out on a limb/(old) have a drinking session
+se mouiller	to get wet/(familiar) go out on a limb/(old) have a drinking session
 ouvrir à [qqn]	to let [sb] in
 s'ouvrir [qch]	to cut one's [sth] open
 s'ouvrir sur	to open onto [sth]
@@ -403,7 +401,7 @@ attendre [qch] de [qqn]	to expect [sth] from [sb]
 s'attendre à [qch]	to expect
 s'attraper	to be caught/catch
 avancer que [indicatif/conditionnel]	to suggest
-s; avancer	to move forward/make progress/get ahead of oneself
+s'avancer	to move forward/make progress/get ahead of oneself
 s'aventurer à faire [qch]	to venture to do [sth]
 avoir raison de [qch]	to conquer
 avoir raison de faire [qch]	to be right to do [sth]
@@ -439,7 +437,7 @@ conclure à	to decide that
 se conduire	to behave
 se confondre (avec [qch])	to become confused/merge (into [sth])/coincide/babble (words)
 s'y connaître en	to know all about
-conseillir [qch] à [qqn]	to recommend [sth] to [sb]
+conseiller [qch] à [qqn]	to recommend [sth] to [sb]
 conseiller à [qqn] de faire [qch]	to advise [sb] to do [sth]
 conseiller [qqn] sur [qch]	to advise [sb] on [sth]
 se construire	to be constructed/shape one's personality/be formed
@@ -485,4 +483,4 @@ défendre de	to depend on [sb] (for money)/report to [sb]/be up to [sb]
 se dépenser	to exert oneself
 n'en déplaise à	with all due respect to
 se déplaire	to be unhappy
-se dérenger	to come out/step aside
+se déranger	to come out/step aside

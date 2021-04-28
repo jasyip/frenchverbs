@@ -77,6 +77,7 @@ def parse_manual(answer):
     return list(filter(lambda synonym: not bool(re.search(r"\([^/)]*\)", synonym)), l))
 
 if __name__ == "__main__":
+    """
     wr = WordReference()
 
     with open(sys.argv[2], 'r', encoding='utf8') as f:
@@ -96,9 +97,17 @@ if __name__ == "__main__":
     """
     with open(sys.argv[1], 'r', encoding='utf8') as f:
         manual_translations = dict([ translation.split("\t") for translation in f.readlines() ])
+    delete_verbs = set()
     for k, v in manual_translations.items():
-        manual_translations[k] = parse_manual(v)
+        v = parse_manual(v)
+        if len(v) == 0:
+            delete_verbs.add(k)
+        else:
+            manual_translations[k] = v
+    manual_translations = { k : v for k, v in manual_translations.items()
+            if k not in delete_verbs }
+
     with open(datetime.datetime.now().strftime("%y%m%d_%H%M%S") + "_manual.json", "w",
             encoding="utf-8") as f:
         json.dump(manual_translations, f, ensure_ascii=False)
-    """
+    
