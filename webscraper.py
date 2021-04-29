@@ -6,6 +6,7 @@ import sys
 import pprint
 import datetime
 import json
+import itertools
 
 
 class WordReference:
@@ -44,15 +45,18 @@ class WordReference:
                             translations[main_translation] = []
                         translations[main_translation].append([])
 
-                if main_translation is not None and "(UK)":
+                if main_translation is not None:
                     if translation.find(attrs = { "class" : "dsense" }):
                         continue
                     for unnecessary_tag in to_word_tag.find_all(["a", "em"]):
                         unnecessary_tag.decompose()
+                    if word in to_word_tag.text:
+                        continue
                     to_add = [re.sub(r"\s(?=\s|$)|/s\w{1,2}", "", synonym).strip()
                             for synonym in to_word_tag.text.split(",")]
-                    translations[main_translation][-1].extend(filter(
-                            lambda x: word not in x, to_add))
+                    if set(itertools.chain(*translations[main_translation])) & set(to_add):
+                        continue
+                    translations[main_translation][-1].extend(to_add)
 
         for k, v in translations.items():
             translations[k] = list(filter(lambda x: x, v))
@@ -75,7 +79,7 @@ def parse_manual(answer):
     split_inds.append(None)
     l = [answer[split_inds[i] + bool(i) : split_inds[i + 1]].strip()
             for i in range(len(split_inds) - 1)]
-    return list(filter(lambda synonym: not bool(re.search(r"\([^/)]*\)", synonym)), l))
+    return list(filter(lambda synonym: not re.search(r"\([^/)]*\)", synonym), l))
 
 if __name__ == "__main__":
     
