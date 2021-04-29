@@ -49,9 +49,10 @@ class WordReference:
                         continue
                     for unnecessary_tag in to_word_tag.find_all(["a", "em"]):
                         unnecessary_tag.decompose()
-                    translations[main_translation][-1].extend(
-                            [re.sub(r"\s(?=\s|$)|/s\w{1,2}", "", synonym).strip() for synonym in
-                            to_word_tag.text.split(",")])
+                    to_add = [re.sub(r"\s(?=\s|$)|/s\w{1,2}", "", synonym).strip()
+                            for synonym in to_word_tag.text.split(",")]
+                    translations[main_translation][-1].extend(filter(
+                            lambda x: word not in x, to_add))
 
         for k, v in translations.items():
             translations[k] = list(filter(lambda x: x, v))
@@ -77,7 +78,7 @@ def parse_manual(answer):
     return list(filter(lambda synonym: not bool(re.search(r"\([^/)]*\)", synonym)), l))
 
 if __name__ == "__main__":
-    """
+    
     wr = WordReference()
 
     with open(sys.argv[2], 'r', encoding='utf8') as f:
@@ -110,4 +111,4 @@ if __name__ == "__main__":
     with open(datetime.datetime.now().strftime("%y%m%d_%H%M%S") + "_manual.json", "w",
             encoding="utf-8") as f:
         json.dump(manual_translations, f, ensure_ascii=False)
-    
+    """
