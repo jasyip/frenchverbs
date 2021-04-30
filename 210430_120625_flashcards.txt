@@ -1,9 +1,7 @@
 abaisser	to lower/bring [sth] down/demean
 s'abaisser	to go down/fall
 s'abaisser à	to condescend to do [sth]
-abattre [qch]	to knock [sth] down/fell/slaughter/lay [sth] down
-abattre [qqn]	to slay
-s'abattre	to fall/strike
+abattre [qch]	to knock [sth] down/fell/slaughter/lay [sth] down/slay/slay
 abolir	to annul
 absoudre [qqn]	to exonerate
 s'abstenir	to abstain
@@ -15,37 +13,24 @@ acclamer	to cheer/hail
 accompagner	to guide/help/accompany/go with [sth]
 s'accompagner	to accompany yourself/be accompanied by [sth]
 accorder [qch] à [qqn]	to give [sth] to [sb]/give [sb] [sth]
-s'accorder	to be in harmony/agree
-s'accorder [qch]	to give yourself [sth]
+s'accorder	to be in harmony/agree/give yourself [sth]
 accourir	to rush over
-accrocher [qch]	to hang/snag
 accrocher [qch] à [qch]	to hitch [sth] to [sth]
 accrocher sur [qch]	to grip
-accrocher	to stick
+accrocher	to stick/hang/snag/catch [sb]'s attention/have a run-in with [sb]
 s'accrocher à [qch]	to hold onto [sth]
 s'accrocher	to collide
-accrocher [qqn]	to catch [sb]'s attention/have a run-in with [sb]
-accueillir [qqn]	to welcome/meet/take [sb] in
-accueillir [qch]	to take
 accuser [qqn] de [qch]	to accuse [sb] of [sth]
-accuser [qqn]	to point to [sb]
-accuser [qch]	to blame/suffer/show
 s'accuser	to confess
 acheter	to buy/bribe
-s'acheter	to sell
-s'acheter [qch]	to buy
+s'acheter	to sell/buy
 achever	to finish/kill
 s'achever	to end
 acquérir	to buy/gain/take on [sth]
 s'acquérir	to earn
 acquérir [qqn] à [qch]	to win [sb] over
-adjoindre [qqn]	to enlist
-adjoindre [qch]	to add
-s'adjoindre [qqn]	to enlist [sb]
 s'adjoindre à [qch]	to be added to [sth]/join
-admettre	to admit/accept/tolerate/let in
-admettre [qch]	to admit
-admirer	to admire
+admettre	to admit/accept/tolerate/let in/admit/admit
 s'admirer	to look at yourself
 adorer	to like/worship
 adresser	to send/express
@@ -74,9 +59,8 @@ aller à [qqn]	to suit
 aller avec [qch]	to go with [sth]
 aménager	to convert/build/adjust
 amener	to bring/take/lower
-amuser	to amuse
+(s')amuser (à faire [qch])	to amuse (yourself doing [sth])
 s'amuser	to play/mess around
-s'amuser à faire [qch]	to amuse yourself doing [sth]
 s'amuser de	to laugh at [sth]
 animer	to lead/stir/bring to life/animate/drive
 s'animer	to liven up
@@ -97,10 +81,9 @@ apporter	to bring/take/bear/provide/put
 apporter [qch] à [qch]	to add [sth] to [sth]
 apprendre	to learn
 apprendre [qch] à [qqn]	to teach [sb] [sth]/tell [sb] about [sth]
-approcher	to come up to/be coming/contact/move [sth] nearer
+approcher	to come up to/be coming/contact/move [sth] nearer/be nearly [sth]
 approcher de [qch]	to be almost/near
 s'approcher	to get closer/be close to [sth]/echo
-approcher [qch]	to be nearly [sth]
 approuver	to approve of [sb]/approve of [sth]
 armer	to arm/equip/pit/dub/fit
 s'armer	to arm yourself
@@ -113,8 +96,7 @@ s'arranger	to improve/manage/reach an agreement/cope
 arrêter	to halt/turn [sth] off/hold [sb] back/cut [sb] off/waylay/arrest/settle on
 s'arrêter	to end/stop
 s'arrêter de faire [qch]	to stop doing [sth]
-s'arrêter sur	to dwell on
-s'arrêter sur [qch]	to settle on [sth]
+s'arrêter sur	to dwell on/settle on [sth]
 arriver	to come/reach/draw near/turn
 arriver à [qch]	to reach/come to [sth]
 assaillir [qqn]	to assail
@@ -130,12 +112,9 @@ s'assurer de [qch]	to ensure
 astreindre	to make
 s'astreindre	to make yourself do [sth]
 attaquer	to attack/rob/criticize/damage/head for
-s'attaquer à [qqn]	to attack
-s'attaquer à [qch]	to criticize
+s'attaquer à [qch]	to criticize/attack
 atteindre	to reach/meet/harm
 attendre	to wait
-attendre [qqn]	to wait for [sb]
-attendre [qch]	to expect/wait for [sth]
 attendre [qch] de [qqn]	to want [sth] from [sb]
 s'attendre à [qch]	to expect
 attirer	to attract/coax/tempt/bring
@@ -143,8 +122,7 @@ attraper	to catch/capture
 s'attraper	to be caught/catch
 augmenter	to increase/heighten
 s'augmenter	to grow
-avancer	to move/progress/be fast/jut out/help [sb] to get on more quickly/lend
-avancer [qch]	to pull [sth] up/stick [sth] out/bring [sth] forward/claim
+avancer	to move/progress/be fast/jut out/help [sb] to get on more quickly/lend/pull [sth] up/stick [sth] out/bring [sth] forward/claim
 avancer que + [indicatif/conditionnel]	to suggest + [indicative]
 s'avancer	to go forward/get ahead
 aventurer	to risk
@@ -165,8 +143,7 @@ bêler	to bleat
 bénir	to bless
 blaguer sur	to joke
 blâmer	to condemn/give [sb] an official warning
-blanchir [qch]	to whiten/whitewash
-blanchir	to pale
+blanchir	to pale/whiten/whitewash
 se blanchir	to clear your name
 blesser [qqn]	to hurt
 se blesser	to hurt yourself
@@ -184,15 +161,13 @@ se brûler	to be burnt
 cacher	to hide/mask/suppress
 se cacher	to hide
 casser	to break/knock [sth] through/demote
-se casser	to break
-se casser [qch]	to break
+se casser ([qch])	to break
 causer	to make/talk
 céder	to collapse/give in
 céder [qch] à [qqn]	to sell [sth] to [sb]/pass [sth] on to [sb]
 céder à	to give in to
 célébrer	to perform
-cesser	to stop
-cesser de faire [qch]	to stop
+cesser (de faire [qch])	to stop
 changer	to change/be different/replace
 changer [qch] en [qch]	to turn [sth] into [sth]/change [sth] for [sth]
 changer de [qch]	to alter/switch
@@ -216,8 +191,7 @@ circonvenir [qch]	to ring
 clore	to close/shut off
 coller	to stick/push
 coller à [qqn]	to stick to [sb]/follow too closely behind [sb]
-se coller	to huddle together
-se coller [qch]	to be stuck doing [sth]
+se coller	to huddle together/be stuck doing [sth]
 combattre	to fight
 se combattre	to fight
 commander	to be in charge of [sth]/call for/control/operate
@@ -229,8 +203,7 @@ commettre	to commit
 commettre [qqn] à [qqn]	to appoint [sb] [sb]
 comparaître	to go before
 comparer	to compare
-compléter [qch]	to complete/finish [sth] off/supplement/fill [sth] in/expand on [sth]
-compléter	to complete
+compléter	to complete/complete/finish [sth] off/supplement/fill [sth] in/expand on [sth]
 se compléter	to complement each other/be coming together
 comprendre	to understand/include/consist of/interpret
 se comprendre	to be understandable/understand each other
@@ -249,15 +222,11 @@ confire [qch]	to comfit
 confondre	to confuse/foil/combine/astound
 se confondre	to become mixed up
 se confondre avec [qch]	to merge into [sth]
-connaître	to know
-connaître [qch]	to know
-se connaître	to know each other
+connaître	to know/know/know
 s'y connaître en	to know all about
 conquérir	to conquer/win [sb] over
-conseiller	to guide
-conseiller [qch]	to advise/suggest
+conseiller	to guide/advise/suggest/guide
 conseiller [qch] à [qqn]	to recommend [sth] to [sb]
-conseiller [qqn]	to guide
 conseiller [qqn] sur [qch]	to advise [sb] on [sth]
 consentir	to grant
 consentir à	to agree to [sth]
@@ -283,15 +252,11 @@ convaincre [qqn]	to convince
 convaincre [qqn] de faire [qch]	to convince [sb] to do [sth]
 convaincre [qqn] que	to persuade [sb]
 se convaincre de [qch]	to be persuaded of [sth]
-convenir à [qch]	to suit/be adapted to [sth]
-convenir à [qqn]	to suit
-convenir de [qch]	to admit to [sth]
+convenir à [qch]	to suit/be adapted to [sth]/suit/suit
 convenir que	to admit
 convenir de faire [qch]	to agree to do [sth]
 se convenir	to be well suited
 correspondre à [qch]	to equal/match/tally with [sth]
-correspondre avec [qqn]	to correspond with [sb]
-correspondre avec [qch]	to be linked with [sth]
 correspondre	to match/be linked
 corriger	to fix
 corrompre	to bribe/subvert/adulterate
@@ -304,20 +269,17 @@ se couper	to cut yourself/cross/contradict yourself
 courir	to run/sprint/take/race/be in effect/sail
 courir à	to be heading for [sth]
 courir après	to chase
-coûter	to cost
-coûter [qch] à [qqn]	to cost [sb] [sth]
+coûter ([qch] à [qqn])	to cost ([sb] [sth])
 couvrir	to cover/put a lid on [sth]/compensate for [sth]/drown [sth] out/include/serve/extend over/protect/insure/be all over [sth]/run/mate with [sth]
 se couvrir	to become overcast/cover up/put a hat on
 se couvrir de [qqn]	to fill with [sth]
-craindre [qch]	to be afraid of [sth]/not like [sth]
 craindre que + [subjonctif]	to be worried + [indicative]
-craindre	to be risky
+craindre	to be risky/be afraid of [sth]/not like [sth]
 créer	to design/bring into being
 se créer	to be created/invent
 crier	to call/yell/clash
-croire [qch]	to believe
 croire que + [indicatif]	to think
-croire	to think/believe
+croire	to think/believe/believe
 croire à	to believe in [sb]
 croire en [qqn]	to believe in [sb]
 se croire	to think
@@ -329,10 +291,8 @@ débattre de	to debate
 débattre	to haggle over
 se débattre	to struggle
 décevoir	to let [sb] down
-déchirer	to rip
-se déchirer	to rip
-décider [qch]	to decide
-décider	to decide on [sth]
+(se) déchirer	to rip
+décider	to decide on [sth]/decide
 décider de faire [qch]	to decide to do [sth]
 décider de	to decide
 décider [qqn] à faire [qch]	to persuade [sb] to do [sth]
@@ -342,34 +302,22 @@ se décider à faire [qch]	to decide to do [sth]
 découdre	to unstitch
 se découdre	to come undone
 en découdre avec	to confront
-décourager [qqn]	to dispirit
 décourager [qqn] de faire [qch]	to make [sb] not want to do [sth]
-décourager [qch]	to deter
+décourager [qch]	to deter/dispirit
 se décourager	to lose heart
-découvrir [qch]	to uncover/discover/reveal/leave [sth] vulnerable
-se découvrir	to take off your hat/take off a layer/throw off the bedclothes
-se découvrir [qch]	to find
-découvrir [qqn]	to find
-décrire	to describe/trace
-décrire [qch]	to describe
-se dédire	to recant
-déduire	to deduce
+découvrir [qch]	to uncover/discover/reveal/leave [sth] vulnerable/find/find/find
+se découvrir	to take off your hat/take off a layer/throw off the bedclothes/find/find/find
 déduire [qch] de [qch]	to deduct
 défaire	to undo/dismantle/remove/defeat
 se défaire	to come apart
-se défaire de [qch]	to get rid of [sth]/part with [sth]
-se défaire de [qqn]	to dismiss
-défendre [qch]	to defend/support
-défendre [qqn]	to defend
-se défendre	to fight back/get on in [sth]
+se défaire de [qch]	to get rid of [sth]/part with [sth]/dismiss/dismiss
 se défendre de [qch]	to defend yourself against [sth]
 dégager	to clear/remove/unblock/emit/draw/extricate/free
 se dégager	to free yourself/clear/waft/emerge
 se dégager de [qch]	to free yourself
 déjeuner de [qch]	to have [sth] for lunch
-demander [qch]	to ask [sb] [sth]/request/demand
+demander [qch]	to ask [sb] [sth]/request/demand/look for [sb]
 se demander [qch]	to wonder
-demander [qqn]	to look for [sb]
 demander [qch] de [qqn]	to ask [sth] of [sb]
 déménager	to move house
 demeurer	to live/stay/still be [sth]
@@ -381,9 +329,7 @@ se dépasser	to outdo yourself/pass one another
 dépêcher	to send
 se dépêcher	to rush
 dépeindre	to depict/show
-dépendre de	to depend on [sth]/depend on [sb]
-dépendre de [qqn]	to report to [sb]/be dependent on [sb]/be [sb]'s decision
-dépendre	to take [sth] down
+dépendre de	to depend on [sth]/depend on [sb]/report to [sb]/be dependent on [sb]/be [sb]'s decision/report to [sb]/be dependent on [sb]/be [sb]'s decision
 dépenser	to spend/use
 se dépenser	to exert yourself/work hard
 déplaire à [qqn]	to upset
@@ -403,19 +349,15 @@ détenir	to own/jail
 détester [qch]	to hate
 se détester	to hate yourself/hate each other
 détourner	to divert/hijack/embezzle/twist/deter
-se détourner	to turn away
-se détourner de [qch]	to turn away from
+se détourner (de [qch])	to turn away (from)
 détruire	to ruin
 se détruire	to destroy yourself
 développer	to grow/call on
 se développer	to develop
 devenir	to become
-dévêtir	to strip
-se dévêtir	to strip
+(se) dévêtir	to strip
 deviner	to guess/sense/make [sth] out
 devoir faire [qch]	to must/need to/be bound to do [sth]
-devoir [qch] à [qqn]	to owe/be indebted to [sb] for [sth]
-devoir [qch] à [qch]	to owe [sth] to [sb]
 se devoir de faire [qch]	to must do [sth]
 se devoir [qch]	to owe each other [sth]
 différer	to differ/defer
@@ -425,8 +367,7 @@ diminuer	to cut/soothe/weaken/deride/drop
 dîner de	to eat
 dire	to say/recite/claim
 dire à [qqn] de faire [qch]	to tell [sb] to do [sth]
-se dire	to be said/be pronounced/say you are [sb]
-se dire [qch]	to tell each other [sth]/think
+se dire	to be said/be pronounced/say you are [sb]/tell each other [sth]/think
 dire [qch] à [qqn]	to remind [sb] of [sb]
 diriger	to point [sth] at [sb]/steer/direct
 se diriger	to find your way
@@ -445,17 +386,14 @@ se donner	to give of yourself/show
 se donner à [qqn]	to give yourself to [sb]
 donner sur	to overlook
 dormir	to sleep/rest
-doubler [qch]	to double/pass/line
-doubler [qqn]	to stand in for [sb]/dub
-doubler	to double
+doubler	to double/double/pass/line/stand in for [sb]/dub
 se doubler de [qch]	to also be a [sth]
 douter	to waver
 douter de [qch]	to doubt
 douter que + [subjonctif]	to doubt whether + [indicative]
 douter de pouvoir faire [qch]	to doubt
 se douter de	to suspect
-échapper à [qqn]	to escape/elude/slip from [sth]/slip [sb]'s mind
-échapper à [qch]	to avoid/dodge
+échapper à [qch]	to avoid/dodge/escape/elude/slip from [sth]/slip [sb]'s mind
 s'échapper	to escape/slip out of
 échouer	to run aground/wash up/fail
 échouer à	to fail
@@ -481,8 +419,7 @@ s'éloigner	to pull away/get away (from [sth])/digress (from [sth])/grow apart (
 embrasser	to kiss
 s'embrasser	to kiss
 emmener	to take/lead
-s'emparer de [qch]	to take
-s'emparer de [qqn]	to catch
+s'emparer de [qch]	to take/catch
 empêcher	to put a stop to [sth]
 empêcher [qqn] de faire [qch]	to stop [sb] doing [sth]
 employer	to employ
@@ -498,36 +435,29 @@ s'endormir	to go to sleep
 enduire	to coat
 enfreindre [qch]	to break
 s'enfuir	to flee
-engager [qqn]	to take on/be [sb]'s opinion/deploy
-engager [qch]	to start/pawn/move/invest
-engager	to commit/kick off
+engager	to commit/kick off/start/pawn/move/invest/take on/be [sb]'s opinion/deploy
 engager [qqn] à [qch]	to encourage [sb] to do [sth]
 s'engager dans [qch]	to join/engage in [sth]/enter
 s'engager	to work/go into [sth]
-enlever	to remove/rub out/take
+enlever	to remove/rub out/take/subtract/subtract
 s'enlever	to come off/go fast
-enlever [qch]	to subtract
-ennuyer	to bore/annoy
 s'ennuyer	to get bored
 énoncer	to state
 s'enquérir	to make enquiries about
 enregistrer [qch]	to record/take in/check/note/endure
 enseigner [qch] à [qqn]	to teach [sb] [sth]
-enseigner [qch]	to teach
-enseigner	to teach
+enseigner	to teach/teach
 s'ensuivre	to ensue
 entendre	to hear/listen to [sth]
 s'entendre	to be used/hear each other/get on/include/understand each other
 s'entendre avec [qqn]	to get on with [sb]
 s'entendre sur [qch]	to agree on [sth]
 enterrer	to bury/outlive
-entraîner [qch]	to take/train
-entraîner [qqn]	to take [sb] off/coach/incite
+entraîner [qch]	to take/train/take [sb] off/coach/incite
 entraîner [qqn] à [qch]	to entail
 s'entraîner	to train yourself
 entreprendre	to start
-entrer	to go in/be part of [sth]
-entrer [qch]	to prick/enter
+entrer	to go in/be part of [sth]/prick/enter
 entretenir	to maintain/keep [sth] going/enjoy
 s'entretenir	to be maintained/keep fit
 s'entretenir avec [qqn]	to talk to [sb]
@@ -548,8 +478,7 @@ espérer en	to expect
 essayer	to test/try out/give [sth] a try/try on
 essayer de faire [qch]	to try to do [sth]
 essuyer	to dry/suffer/bear
-s'essuyer	to dry yourself
-s'essuyer [qch]	to dry
+s'essuyer	to dry yourself/dry
 estimer	to estimate the value of [sth]/esteem
 estimer que	to feel
 s'estimer	to think yourself
@@ -568,16 +497,13 @@ s'étourdir	to be intoxicated/distract yourself
 s'étudier	to size each other up
 évaluer	to reckon/assess
 éviter	to avoid/prevent/stay away from [sth]/stay out of [sth]/steer clear of [sb]
-s'éviter	to avoid each other
-s'éviter [qch]	to save yourself [sth]
+s'éviter	to avoid each other/save yourself [sth]
 éviter [qch] à [qqn]	to avoid
 exagérer	to overplay/amplify/go too far/overdo it
 s'exagérer [qch]	to overstate [sth]
 exclure	to get rid of [sth]/exclude/rule out/ignore
 s'exclure	to leave
-excuser [qqn]	to excuse
-excuser [qqn] de/pour [qch]	to excuse [sb]'s [sth]
-excuser [qch]	to excuse
+excuser [qch]	to excuse/excuse/excuse
 s'excuser	to sorry/excuse
 s'excuser de/pour [qch]	to say sorry for [sth]
 exiger	to demand/need
@@ -596,23 +522,19 @@ avoir failli faire [qch]	to almost did [sth]
 faire	to do/make/cause/turn into/study/be/say/measure/last/look/create/clean/imitate
 faire [qch] à	to sell
 faire faire [qch]	to have [sth] done
-se faire	to happen/be the done thing/stretch
-se faire [qch]	to make yourself [sth]
+se faire	to happen/be the done thing/stretch/make yourself [sth]/become
 se faire + [infinitif]	to be + [past participle]
-se faire [qqn]	to become
 se faire faire [qch]	to have [sth] done
 se faire à [qch]	to get used to [sth]
 faire du [qqn]	to copy
-falloir [qch]	to be needed
 falloir que [qch] fasse [qch]	to have to do [sth]
-falloir	to must/should
+falloir	to must/should/be needed
 falloir + [durée]	to take + [duration]
 feindre	to simulate
 féliciter	to congratulate
 se féliciter de	to be pleased with yourself
 fendre	to chop
-se fendre	to crack/be split
-se fendre [qch]	to split
+se fendre	to crack/be split/split
 fermer	to shut/turn off/close off/demarcate
 se fermer	to shut
 feuilleter [qch]	to skim/make puff pastry
@@ -622,9 +544,8 @@ finir	to finish/end
 finir de faire [qch]	to stop doing [sth]
 fixer	to fix/stabilize/set/contain
 fixer [qch] à [qch]	to fix [sth] to [sth]
-se fixer	to attach/stabilize
+se fixer	to attach/stabilize/set yourself [sth]
 se fixer à [qch]	to be fixed to [sth]
-se fixer [qch]	to set yourself [sth]
 fonder	to found
 fonder [qch] sur [qch]	to base [sth] on [sth]
 se fonder sur [qch]	to be based on
@@ -635,38 +556,32 @@ forcer	to come under strain/demand
 forcer sur [qch]	to force
 se forcer	to make yourself
 fouiller	to search/rummage through/rack your brains
-fournir [qqn]	to supply
 fournir [qch] à [qqn]	to supply
-fournir [qch]	to give
+fournir [qch]	to give/supply
 se fournir	to get
 frapper	to hit/knock/chill/mint
 frémir	to shake
 frire	to fry
 fuir	to flee/leak/shun
 fumer	to steam
-gagner [qch]	to win/make a profit of [sth]/gain/spread to [sth]/reach/save
-gagner	to win
-gagner [qqn]	to overcome
+gagner	to win/win/make a profit of [sth]/gain/spread to [sth]/reach/save/overcome
 garder	to keep/save/mind/guard
 se garder	to keep
 se garder de faire [qch]	to refrain from doing [sth]
 gaspiller	to waste
 se gâter	to worsen
 geindre	to wail/whine
-geler	to freeze
-regeler	to freeze again
+(re)geler	to freeze (again)
 gêner	to bother/unsettle/get in the way
 se gêner	to be in each other's way
 gérer	to manage/deal with [sth]
 goûter à	to try
 se grandir	to make yourself taller/do yourself credit
-se gratter	to scratch
-se gratter [qch]	to scratch your [sth]
+se gratter ([qch])	to scratch (your [sth])
 grêler	to cause hail damage to [sth]
-grimper	to climb/be hilly/go up
+grimper	to climb/be hilly/go up/climb
 grimper à [qch]	to climb
 grimper sur [qch]	to climb on [sth]
-grimper [qch]	to climb
 gronder	to rumble/scold
 guérir [qqn]	to make [sb] better
 guérir [qqn] de [qch]	to cure [sb] of [sth]/rid [sb] of his/her/their [sth]
@@ -676,22 +591,17 @@ habiller	to dress/buy clothes for [sb]/coat/make clothes for [sb]
 s'habiller	to dress/buy your clothes from [sb]
 s'habiller en [qch]	to dress up as [sth]
 habiter	to live
-haïr	to hate
-se haïr	to hate each other/hate yourself
+(se) haïr	to hate (each other/yourself)
 hésiter	to hesitate
 hésiter à faire [qch]	to hesitate over doing [sth]
 hésiter entre [qch] et [qch]	to waver between [sth] and [sth]
 hoqueter	to hiccup/sob/jolt
 ignorer	to not know/ignore
-imposer [qch]	to impose
-imposer	to urge/tax
-s'imposer	to be bold/impose yourself/be vital/be obvious
 en imposer à [qqn]	to impress
 inclure	to cover
 indiquer	to indicate/be a sign of [sth]
-induire [qch]	to deduce
 induire à faire [qch]	to lead [sb] to do [sth]
-induire	to lead to
+induire	to lead to/deduce
 informer [qqn] de [qch]	to let [sb] know [sth]
 informer [qqn] que [qch]...	to let [sb] know
 informer [qqn]	to inform
@@ -706,17 +616,13 @@ s'inscrire dans [qch]	to be part of [sth]/join/fit in with [sth]
 insister sur	to insist on/concentrate on
 insister	to insist
 instruire	to inform
-s'instruire	to learn
-s'instruire de	to learn about
-interdire [qch]	to ban
-interdire [qch] à [qqn]	to deny [sb] [sth]
-interdire	to stop [sb] doing [sth]
+s'instruire (de)	to learn (about)
+interdire	to stop [sb] doing [sth]/ban/ban
 s'interdire [qch]	to abstain from [sth]
 s'interdire de faire [qch]	to renounce
 intéresser	to interest/affect
 intéresser [qqn] à [qch]	to get [sb] interested in [sth]/give [sb] a stake in [sth]
-s'intéresser à [qch]	to be interested in [sth]
-s'intéresser à [qqn]	to be interested in [sb]
+s'intéresser à [qch]	to be interested in [sth]/be interested in [sb]
 interroger	to ask [sb] questions/test/check
 s'interroger	to wonder/ponder
 interrompre	to interrupt/stop/suspend
@@ -725,8 +631,7 @@ intervenir	to act/occur/speak/intercede/perform
 introduire	to put/add
 s'introduire	to get into/gain entry
 inventer	to invent/come up with
-s'inventer	to make up
-s'inventer [qch]	to invent
+s'inventer	to make up/invent
 inviter [qqn] à [qch]	to encourage
 inviter [qqn]	to be [sb]'s treat
 inviter à [qch]	to be inviting
@@ -740,14 +645,12 @@ se jeter	to hurl yourself
 se jeter sur/dans [qch]	to throw yourself onto [sth]
 se jeter contre [qch]	to hit
 joindre	to add
-jouer	to play/compete/gamble/be loose/feign
+jouer	to play/compete/gamble/be loose/feign/risk/play in [sth]/play for [sth]/gamble/bet on [sth]/play
 jouer à [qch]	to be
 jouer de [qch]	to play the [sth]/exploit
-jouer [qch]	to risk/play in [sth]/play for [sth]/gamble/bet on [sth]
 jouer avec [qch]	to take risks with
 se jouer	to be played/be performed/play out/be decided
 se jouer de [qch]	to defy
-jouer [qqn]	to play
 jouer sur [qch]	to exploit
 jouir	to orgasm
 jouir de	to enjoy
@@ -759,20 +662,16 @@ jurer	to swear/clash
 se jurer	to vow
 jurer par	to swear by
 kidnapper	to kidnap
-klaxonner	to beep
-klaxonner [qqn]	to beep
+klaxonner	to beep/beep
 lâcher	to give/drop/let [sth] down
 se lâcher	to relax
-laisser	to leave/give/drop off
+laisser	to leave/give/drop off/must go
 laisser [qch] à [qqn]	to leave [sth] to [sb]
-laisser [qqn]	to must go
-lancer [qch]	to start/launch
+lancer [qch]	to start/launch/launch
 se lancer	to try/start/leap/make a name for yourself
 se lancer dans [qch]	to take [sth] up/launch into [sth]
-lancer [qqn]	to launch
 laver	to wash
-se laver	to wash
-se laver [qch]	to wash
+se laver ([qch])	to wash
 lever	to raise/lift/start
 se lever	to rise/get up/go up/pick up
 se lire	to be read/be a + [adj] read/be seen
@@ -789,8 +688,7 @@ maintenir que	to insist
 se maintenir	to stay/keep on
 manger	to eat/mumble
 se manger	to be eaten
-manquer [qch]	to miss/fail at [sth]
-manquer	to be lacking
+manquer	to be lacking/miss/fail at [sth]
 manquer de [qch]	to lack
 manquer faire [qch]	to almost do [sth]
 manquer à [qch]	to fail to keep [sth]
@@ -814,9 +712,7 @@ se mériter	to must be earned
 mesurer	to be X by X by X (in dimension/in size)/measure/limit
 se mesurer	to measure yourself
 se mesurer à	to tackle
-mettre [qch]	to put/slip into [sth]/spend [sth] on [sth]/say
-mettre [qqn]	to put
-mettre	to include
+mettre	to include/put/slip into [sth]/spend [sth] on [sth]/say/put
 se mettre à faire [qch]	to start to do [sth]
 se mettre	to wear
 se mettre quelque part	to sit
@@ -826,12 +722,10 @@ monter	to climb/go up/rise/reach/take [sth] up/lift/increase/put [sth] up/set [s
 monter à [qch]	to climb
 monter sur [qch]	to climb on [sth]/mount
 se monter	to be assembled
-montrer [qch]	to show [sb] [sth]
-montrer	to point out/show/bring to light/make visible
+montrer	to point out/show/bring to light/make visible/show [sb] [sth]
 se montrer	to be seen
 se montrer + [adj]	to show + [noun]
-se moquer de [qqn]	to tease/make a fool of [sb]
-se moquer de [qch]	to not care about [sth]
+se moquer de [qch]	to not care about [sth]/tease/make a fool of [sb]
 mordre	to bite/go over/sting
 moudre	to mill
 mouiller	to soak everything/dampen/moor/add
@@ -844,24 +738,20 @@ naviguer	to sail/navigate
 négliger	to forget/be careless about/ignore
 se négliger	to let yourself go
 négocier [qch]	to trade/broker/haggle over [sth]
-se négocier	to sell
-se négocier [qch]	to manage to get [sth]
+se négocier	to sell/manage to get [sth]
 neiger	to snow
 nettoyer	to clean
 neutraliser	to neutralize
 se neutraliser	to cancel each other out
 nier	to deny/refute
 noircir	to darken/make [sb] darker
-nommer [qch]	to name
-nommer [qqn]	to name
+nommer [qch]	to name/name
 se nommer	to be called
-noter	to mark
-noter [qch]	to represent
+noter	to mark/represent
 nouer	to tie/form
 se nouer	to build
 nourrir	to feed/provide for [sb]
-se nourrir	to eat
-se nourrir de [qch]	to eat
+se nourrir (de [qch])	to eat
 noyer	to drown
 se noyer	to drown
 nuire à	to harm/be detrimental to [sth]
@@ -870,53 +760,41 @@ obéir	to do as you are told
 obtenir	to get/end up with [sth]
 occlure	to occlude/contain
 occuper	to fill/busy yourself with [sth]/keep [sb] busy/be the main industry/take over/live in [sth]
-s'occuper de [qch]	to see to [sth]/care for [sb]/work with [sth]
+s'occuper de [qch]	to see to [sth]/care for [sb]/work with [sth]/look after [sb]
 s'occuper de faire [qch]	to deal with [sth]
-s'occuper de [qqn]	to look after [sb]
 offrir [qch] à [qqn]	to give [sb] [sth]/offer [sb] [sth]
 offrir	to present
 s'offrir [qch]	to buy
 s'offrir à [qqn]	to open up to [sb]/give yourself to [sb]
 oindre	to anoint
-omettre	to omit to do [sth]
-omettre [qch]	to omit
-oser [qch]	to will do [sth]
-oser	to be bold/dare
+omettre	to omit to do [sth]/omit/omit
 oublier	to forget/leave [sth] behind
 s'oublier	to be something you forget/forget yourself
 ouvrir	to open/put [sth] on/make
 ouvrir à [qqn]	to let [sb] in
-s'ouvrir	to open
-s'ouvrir [qch]	to gash your [sth]
+s'ouvrir	to open/gash your [sth]
 s'ouvrir sur	to open onto [sth]
 s'ouvrir à [qch]	to discover
 s'ouvrir à [qqn] de/sur [qch]	to confide in [sb] about [sth]
 paraître	to seem/be published/get noticed
 parcourir	to cross/roam/skim
 pardonner [qch] à [qqn]	to forgive [sb] for [sth]/forgive [sb] [sth]
-pardonner [qch]	to pardon/overlook
-pardonner à [qqn]	to forgive
-pardonner	to forgive
-parler	to talk
-parler de [qch]	to talk about [sth]
+pardonner	to forgive/pardon/overlook/pardon/overlook
+parler (de [qch])	to talk (about [sth])
 parler avec [qqn]	to talk to
 parler de	to talk about [sth]
 parler de [qqn] à [qqn]	to talk to [sb] about [sb]
 parler à [qqn]	to mean [sth] to [sb]
 se parler	to talk to each other/be spoken
-partager	to share
-partager [qch]	to share
-se partager	to be split
-se partager [qch]	to split
+partager	to share/share
+se partager	to be split/split
 participer à [qch]	to take part in [sth]/join in with [sth]
 participer de	to relate to
 partir	to go/start/disappear/come off/set out
 partir sur [qch]	to choose
 parvenir	to reach
 parvenir quelque part	to reach
-parvenir à [qch]	to gain
-parvenir à [qqn]	to reach
-parvenir à	to manage
+parvenir à [qch]	to gain/reach/reach
 passer	to come/go/pass/move up/be admissible/be on/filter/run/slip into/take/engage/put [sth] on/be past/spend/have/drain
 passer chez [qqn]	to go to [sb]'s house
 passer en [qch]	to go into [sth]
@@ -928,12 +806,9 @@ se passer de [qch]	to do without [sth]
 passer de [qch] à [qch]	to go from [sth] to [sth]
 patiner	to skate/slip/burnish
 se patiner	to form a patina
-payer [qch]	to pay [sth]
-payer [qqn]	to pay [sb]
 payer [qch] à [qqn]	to buy [sb] [sth]
-se payer	to be paid for
-se payer [qch]	to buy yourself [sth]
-payer	to pay for
+se payer	to be paid for/buy yourself [sth]
+payer	to pay for/pay [sth]/pay [sb]
 pécher	to sin
 pêcher	to fish
 peigner	to comb/disentangle
@@ -943,21 +818,15 @@ se pendre	to hang yourself
 pénétrer dans	to enter/penetrate
 pénétrer	to penetrate/imbue/fathom
 se pénétrer de [qch]	to allow yourself to be filled with [sth]
-penser	to think
+penser	to think/mean/think
 penser que	to think
-penser [qch]	to mean/think
 penser [qch] de [qch]	to think [sth] of [sth]
-penser à [qqn]	to think of [sb]/spare a thought for [sb]
-penser à [qch]	to consider [sth]
-penser à	to think to do [sth]
+penser à	to think to do [sth]/consider [sth]/think of [sb]/spare a thought for [sb]
 percevoir	to sense/receive
 perdre	to lose/waste
 se perdre	to get lost/be lost/die out/go to waste
 périr	to perish
-permettre [qch]	to allow
-se permettre [qch]	to allow yourself [sth]
-se permettre de faire [qch]	to take the liberty of doing [sth]/-
-se permettre	to allow yourself (to do) [sth]
+se permettre	to allow yourself (to do) [sth]/allow (yourself [sth])/allow (yourself [sth])
 persuader [qqn] de faire [qch]	to persuade [sb] to do [sth]
 se persuader de [qch]	to talk yourself into doing [sth]
 se persuader que	to convince yourself
@@ -969,8 +838,7 @@ pianoter	to tinkle at the piano/tap your fingers
 placer	to put/seat/obtain a position for/locate
 se placer	to sit
 plaindre	to pity
-se plaindre	to complain
-se plaindre de [qch]	to complain about [sth]
+se plaindre (de [qch])	to complain (about [sth])
 se plaindre de faire [qch]	to complain about doing [sth]
 se plaindre que	to complain
 se plaindre à [qqn]	to complain to [sb]
@@ -985,17 +853,13 @@ pleurer	to cry
 pleuvoir	to rain
 plier	to bend/fold/crease
 se plier	to fold up
-plonger	to dive/go diving/drop
-plonger [qch]	to drop
-porter [qch]	to carry/support/have
-porter [qch] à [qqn]	to take [sb] [sth]
-porter [qch] à [qch]	to put [sth] to [sth]/adapt [sth] for [sth]
+plonger	to dive/go diving/drop/drop
+porter [qch] à [qch]	to put [sth] to [sth]/adapt [sth] for [sth]/take [sb] [sth]
 porter sur [qch]	to be on [sth]
 se porter	to be
 se porter sur [qch]	to incline toward
-porter	to carry
+porter	to carry/carry/support/have/carry
 porter jusqu'à + [distance]	to have a range of + [distance]
-porter [qqn]	to carry
 poser	to put/lay/land/pose
 se poser	to land/arise/fix upon/on/sit down/settle down
 se poser en	to think you are [sth]
@@ -1012,14 +876,12 @@ prédire	to predict/promise
 préférer [qch] à autre chose	to prefer [sth] to [sth] else
 préférer faire [qch]	to prefer to do [sth]
 préférer	to prefer
-prendre	to take/steal/catch/select/get/gain/see/set/work
+prendre	to take/steal/catch/select/get/gain/see/set/work/ask/ask
 prendre [qqn] pour [qqn] d'autre	to mistake [sb] for [sb]
 se prendre dans [qch]	to get caught in [sth]
 se prendre pour	to think yourself
 se prendre à faire [qch]	to start to do [sth]
 prendre par	to go via [sth]
-prendre [qch]	to ask
-prendre [qqn] pour [qch]	to take [sb] for [sth]
 prendre [qqn] à faire [qch]	to catch [sb] doing [sth]
 prendre à [qqn]	to get into [sb]
 préparer	to prepare/lay [sth] out/make
@@ -1028,15 +890,12 @@ se préparer à [qch]	to be ready for [sth]
 prescrire [qch]	to prescribe/expire/advise
 prescrire [qch] à [qqn]	to prescribe [sth] to [sb]
 présenter [qqn] à [qqn]	to introduce [sb] to [sb]
-présenter [qch]	to show/have/put [sth] on
 se présenter	to introduce yourself/appear/be seen/seem
 se présenter comme	to claim you are [sth]
-présenter [qqn]	to put [sb] in for [sth]
-présenter	to give
+présenter	to give/show/have/put [sth] on/put [sb] in for [sth]
 pressentir	to sense/foresee
 presser	to press/rush
-se presser	to rush
-se presser de faire [qch]	to rush to do [sth]
+se presser (de faire [qch])	to rush (to do [sth])
 prétendre	to say
 prétendre faire [qch]	to claim you can do [sth]
 prétendre à [qch]	to qualify for [sth]
@@ -1049,13 +908,10 @@ se prévaloir de	to boast
 prévenir [qqn]	to warn/call
 prévenir [qqn] de [qch]	to let [sb] know [sth]/warn [sb] [sth]
 prévoir	to predict/not forget [sth]/plan/foresee/envisage
-prier	to pray
-prier [qqn]	to pray to [sb]
+prier ([qqn])	to pray (to [sb])
 produire	to make/give/create
 se produire	to occur
-projeter	to throw/plan/show/transmit
-projeter [qch]	to project
-se projeter	to be projected
+projeter	to throw/plan/show/transmit/project/project
 se promener	to walk/be scattered
 promener [qch]	to let [sth] wander over [sth]/parade
 promettre [qch] à [qqn]	to promise [sb] [sth]
@@ -1065,10 +921,7 @@ promettre [qqn] à [qch]	to destine [sb] for [sth]
 prononcer	to say/give
 se prononcer	to be pronounced
 proposer [qch] à [qqn]	to offer [sb] [sth]/suggest [sth] to [sb]
-proposer [qch]	to offer
-proposer [qqn]	to propose
-se proposer de faire [qch]	to offer to do [sth]/intend to do [sth]
-se proposer pour faire [qch]	to offer to do [sth]
+proposer [qch]	to offer/propose/propose/propose
 proscrire	to ban
 protéger	to guard/shield
 se protéger	to protect yourself from [sth]/use protection
@@ -1081,14 +934,10 @@ se punir	to punish yourself
 quitter	to leave/go/give up
 se quitter	to separate
 raconter	to tell/declare/say
-ralentir	to slow
-se ralentir	to slow down
+(se) ralentir	to slow (down)
 ranger	to put [sth] away/put [sth] aside
 se ranger	to line up/belong/settle down
 se ranger à	to fall in with [sth]
-rappeler [qqn]	to call back
-rappeler	to call/match
-rappeler [qch]	to call [sth] back/recall
 rappeler [qch] à [qqn]	to remind [sb] of [sth]
 rappeler [qqn] à [qqn]	to resemble
 se rappeler [qch]	to recall
@@ -1116,31 +965,22 @@ recueillir	to reap/hear/note/take [sth] in
 se recueillir	to reflect/gather yourself
 rédiger	to write
 redire	to repeat/tell
-réduire	to reduce/limit
+réduire	to reduce/limit/boil [sth] down
 se réduire à	to come down to
 se réduire	to cut back
-réduire [qch]	to boil [sth] down
 réélire	to reelect
 refaire	to redo/renovate
-se refaire	to change/win your money back
+se refaire	to change/win your money back/build [sth] back up/build [sth] back up
 se refaire à [qch]	to get used to [sth] again
-se refaire [qch]	to build [sth] back up
-réfléchir	to think/reflect
 réfléchir à [qch]	to think about [sth]/consider
 se réfléchir	to reflect
-refléter	to reflect
-se refléter	to reflect
-refuser	to refuse
+(se) refléter	to reflect
+refuser	to refuse/turn [sb] away/turn [sb] away
 refuser [qch] à [qqn]	to refuse
-se refuser [qch]	to will not do [sth]
-se refuser à	to refuse
-se refuser	to be refused/deny [sb] sex
-refuser [qqn]	to turn [sb] away
-regarder	to look/concern
+se refuser	to be refused/deny [sb] sex/will not do [sth]/will not do [sth]
 regarder à [qch]	to worry about [sth]
 se regarder	to look at yourself/look at each other
-regretter [qch]	to be sorry for [sth]
-regretter	to be sorry/miss
+regretter	to be sorry/miss/be sorry for [sth]
 rejeter	to release/emit/move/reject/push back [sth]
 rejoindre	to join/catch up to [sb]/reach/agree with
 se rejoindre	to meet/join together/agree
@@ -1151,16 +991,10 @@ se remarquer	to stand out
 remercier [qqn]	to thank/dismiss
 remercier [qqn] pour [qch]	to thank [sb] for [sth]
 remercier [qqn] d'avoir fait [qch]	to thank [sb] for doing [sth]
-remettre	to put [sb] back/put [sth] on again/add/defer/put the ball back
-remettre [qch]	to give
-se remettre à	to get back to (doing) [sth]
-se remettre à [qch]	to start [sth] again/take [sth] up again
-se remettre de [qch]	to recover (from [sth])
+remettre	to put [sb] back/put [sth] on again/add/defer/put the ball back/give/give
 se remettre avec [qqn]	to get back together with [sb]
 s'en remettre à [qqn]	to trust
 remoudre	to regrind
-remplacer [qch]	to replace
-remplacer	to replace/follow
 remplir	to fill/keep busy
 remplir [qqn] de [qch]	to fill [sb] with [sth]
 se remplir	to fill
@@ -1171,9 +1005,8 @@ rendre [qqn] + [adjectif]	to make [sb] + [adjective]
 rendre [qch]	to render/pronounce/translate
 se rendre	to go/yield
 se rendre chez [qqn]	to visit
-se rendre à [qqn]	to surrender to [sb]
 se rendre + [adjectif]	to make yourself + [adjective]
-se rendre à [qch]	to yield to [sth]
+se rendre à [qch]	to yield to [sth]/surrender to [sb]
 renoncer à [qch]	to renounce/give up on [sth]
 renoncer	to give up
 renouveler	to renew/freshen/repeat/restate
@@ -1187,21 +1020,15 @@ répandre	to put/leave/broadcast/produce/cause
 se répandre	to spread
 reparaître	to reappear/be published again
 réparer	to fix/sort [sth] out
-repasser [qch]	to iron/pass [sb] [sth] back/show [sth] again/go back through [sth]/retake
-repasser	to come back/redo/be repeated
 repeindre	to repaint
 se repentir	to repent/be sorry
 repérer	to notice/find/detect/mark
 se repérer	to get your bearings/work out where you are
-répéter [qch]	to repeat/recount/show [sth] again/rehearse
 répéter [qch] à [qqn]	to tell [sb] [sth]
-répéter	to rehearse
-se répéter	to repeat yourself/recur
-se répéter [qch]	to repeat [sth] to yourself
+répéter	to rehearse/repeat/recount/show [sth] again/rehearse
+se répéter	to repeat yourself/recur/repeat [sth] to yourself
 répondre	to reply
-répondre à [qch]	to answer/reply/meet
-répondre à [qqn]	to answer
-se répondre	to be symmetrically positioned/alternate
+répondre à [qch]	to answer/reply/meet/answer/answer
 répondre de [qch]	to answer for [sth]
 répondre pour [qqn]	to vouch for [sth]
 répondre de/pour [qch]	to answer for [sth]
@@ -1209,10 +1036,7 @@ reposer	to put [sth] down/put [sth] back/repeat/rest
 reposer sur [qch]	to sit on [sth]/be based on
 se reposer	to rest
 se reposer sur [qqn]	to rely on [sb]
-reprendre [qch]	to have some more [sth]/get [sth] back/take [sth] over/resume/go back over [sth]/use/take another look at [sth]/regain/go back to [sth]/sing along to [sth]
-reprendre [qqn]	to correct
-reprendre	to start again/start up again
-se reprendre	to correct yourself
+reprendre [qch]	to have some more [sth]/get [sth] back/take [sth] over/resume/go back over [sth]/use/take another look at [sth]/regain/go back to [sth]/sing along to [sth]/correct/correct/correct
 s'y reprendre	to start anew
 reproduire	to copy/recreate
 se reproduire	to reproduce
@@ -1225,9 +1049,8 @@ se ressembler	to look alike
 ressentir	to feel
 se ressentir	to suffer
 rester	to be remaining/continue/go on living in/be still/not go
-restreindre	to limit
+(se) restreindre (à)	to limit (yourself to)
 se restreindre	to cut back
-se restreindre à	to limit yourself to
 reteindre	to redye
 retenir	to catch/hold [sth] back/retain/take on [sb]/book/remember/keep/carry
 se retenir à [qch]	to grab
@@ -1247,9 +1070,7 @@ revendiquer	to claim
 se revendiquer	to claim to be [sth]
 revenir	to come back/return/cost
 revenir de [qch]	to be back from [sth]
-revenir à [qch]	to catch up/return to [sth]/come back to [sth]/be as good as + [infinitive]
-revenir à [qqn]	to come to [sb]/come back/go to [sb]
-revenir sur [qch]	to go back on [sth]
+revenir à [qch]	to catch up/return to [sth]/come back to [sth]/be as good as + [infinitive]/come to [sb]/come back/go to [sb]/come to [sb]/come back/go to [sb]
 revenir à [qqn] de faire [qch]	to be [sb]'s job to do [sth]
 rêver	to dream/imagine
 rêver de	to dream about [sth]/dream of [sth]
@@ -1264,21 +1085,17 @@ riposter	to respond/retort
 rire	to laugh/have a good time/joke
 rire de [qqn]	to laugh at [sb]
 rompre	to break off/destroy/break up
-rompre avec [qqn]	to break up with [sb]
-rompre avec [qch]	to break with [sth]
+rompre avec [qch]	to break with [sth]/break up with [sb]
 rougir	to go red/turn [sth] red
 rouler	to roll/go/wrap/work
 se rouler	to roll
 rouvrir	to reopen
 se rouvrir	to reopen
 saillir	to jut out
-saisir	to grasp/grab/hit/capitalize on [sth]/enter/strike/refer to [sth]
-saisir [qqn]	to seize [sb]'s property
+saisir	to grasp/grab/hit/capitalize on [sth]/enter/strike/refer to [sth]/seize [sb]'s property
 se saisir de	to seize/capture/catch
 salir	to get [sth] dirty/soil
 se salir	to get dirty
-satisfaire [qqn]	to satisfy
-satisfaire [qch]	to ease
 satisfaire à	to meet
 se satisfaire de	to be happy with [sth]
 sauter	to jump/miss
@@ -1294,34 +1111,27 @@ séjourner	to live/lie
 sembler + [adj]	to seem + [adjective]
 sembler + [adj] à [qqn]	to seem + [adjective] to [sb]
 sentir	to smell/feel/be aware of/sense
-se sentir	to feel
-se sentir de faire [qch]	to feel up to [sth]
+se sentir (de faire [qch])	to feel (up to [sth])
 séparer	to separate/split up/cut off/away
 se séparer	to split up
-se séparer de [qch]	to get rid of [sth]
-se séparer de [qqn]	to let [sb] go
+se séparer de [qch]	to get rid of [sth]/let [sb] go
 serrer	to grip/secure/tighten/hold/be tight/close in on [sth]
 se serrer	to cuddle up to/clench
-servir [qqn]	to serve/be on your side/help
-servir [qch]	to serve
-servir	to serve
+servir [qch]	to serve/serve/be on your side/help
+servir (de [qch])	to serve (as [sth])
 servir à [qch]	to be for [sth]
-servir de [qch]	to serve as [sth]
 se servir [qch]	to take
-se servir de [qch]	to use
-se servir de [qqn]	to use
+se servir de [qch]	to use/use
 siffler	to whistle/hiss at [sb]/blow
-signaler [qch]	to signal [sth] (to [sb])
 signaler à [qqn] que	to let [sb] know
-signaler	to inform
+signaler	to inform/signal [sth] (to [sb])
 se signaler	to be distinguishable by [sth]
 signer [qch]	to sign/ratify/mark
 signifier	to mean
 skier	to ski
 songer à [qch]	to think of [sth]
 songer à faire [qch]	to think of doing [sth]
-sonner	to ring/call for [sb]
-sonner [qch]	to sound
+sonner	to ring/call for [sb]/sound
 sonner de	to play
 sortir	to exit/go out/be released/get [sth] out/eliminate
 sortir de [qch]	to leave/go out/get out
@@ -1334,9 +1144,7 @@ souffrir de [qch]	to suffer with [sth]/suffer from [sth]
 souhaiter [qch]	to want
 souhaiter [qch] à [qqn]	to wish [sb] [sth]
 soumettre	to subdue/submit
-soumettre [qch] à [qch]	to submit [sth] to [sth]
-soumettre [qqn] à [qch]	to subject [sb] to [sth]
-soumettre [qch] à [qqn]	to submit [sth] to [sb]
+soumettre [qch] à [qch]	to submit [sth] to [sth]/subject [sb] to [sth]/subject [sb] to [sth]
 se soumettre	to obey
 se soumettre à [qch]	to agree to [sth]
 sourire	to smile
@@ -1351,27 +1159,18 @@ subir	to endure/undergo
 succomber à	to succumb to [sth]/yield to [sb]/yield to [sth]
 succomber	to die/yield/give in
 sucer [qch]	to suck
-suffire	to be enough
-suffire à [qqn]	to be enough
-suffire à [qch]	to be enough for [sth]
+suffire (à [qch])	to be enough (for [sth]/)
 se suffire à soi-même	to be independent
 suggérer [qch]	to suggest
 suggérer [qch] à [qqn]	to suggest [sth] to [sb]
-suivre	to follow/come after/accompany/deal with [sth]
-suivre [qqn]	to follow
+suivre	to follow/come after/accompany/deal with [sth]/follow/follow
 se suivre	to follow one after another/be consecutive/make sense
-suivre [qch]	to follow
 supplier [qqn] de faire [qch]	to beg [sb] to do [sth]
 supporter	to hold up/bear/cope with
 se supporter	to tolerate each other
 supposer	to suppose/mean
-surprendre [qqn]	to surprise/catch
-surprendre [qch]	to notice/catch
-se surprendre à faire [qch]	to find yourself doing [sth]
 surprendre	to catch [sb] out
 survenir	to occur
-survivre à [qqn]	to outlive
-survivre à [qch]	to survive
 survivre	to survive/live on
 survoler [qch]	to fly over [sth]/glance over [sth]/touch on [sth]
 tapoter	to pat
@@ -1380,12 +1179,11 @@ teindre	to dye
 se teindre	to dye your hair
 téléphoner à [qqn]	to call
 se téléphoner	to call each other
-tendre	to pull [sth] taut/hold out
+tendre	to pull [sth] taut/hold out/set [sth] up
 tendre [qch] à [qqn]	to hand/offer [sth] to [sb]
 tendre à [qch]	to tend towards [sth]
 tendre à faire [qch]	to aim to do [sth]
 se tendre	to be drawn taut
-tendre [qch]	to set [sth] up
 tenir	to hold/keep/be solid/last/fit/use
 tenir à [qch]	to cling to [sth]/care about [sb]/stem from/value
 tenir de [qqn]	to get [sth] from [sb]
@@ -1396,18 +1194,15 @@ terminer	to finish/conclude
 se terminer	to end
 tirer	to pull/draw [sth] towards you/print/irritate/shoot/drag
 tirer [qch] de [qch]	to pull [sb] from [sth]/owe [sth] to [sth]
-tirer sur [qqn]	to shoot at [sb]
-tirer sur [qch]	to be almost [sth]
+tirer sur [qch]	to be almost [sth]/shoot at [sb]
 tomber	to fall/sag/drop
-tomber sur [qch]	to chance on [sth]/happen to get [sth]/run into [sth]
-tomber sur [qqn]	to fall to [sb]
+tomber sur [qch]	to chance on [sth]/happen to get [sth]/run into [sth]/fall to [sb]
 tonner	to rumble
 tonner contre	to rail against [sth]
 se toquer de [qqn]	to fall for [sb]
 tordre	to wring/contort
 toucher	to feel/reach/adjoin/affect deeply
-toucher à [qch]	to touch/meddle with [sth]
-toucher à [qqn]	to harm
+toucher à [qch]	to touch/meddle with [sth]/harm
 se toucher	to adjoin
 tourner	to revolve/do good business/swivel
 tourner autour de [qch]	to involve
@@ -1429,8 +1224,6 @@ transparaître	to show through
 travailler	to work/shape/worry/alter
 travailler à	to work towards
 se travailler	to be worked
-traverser [qch]	to go through [sth]
-traverser	to cross
 tressaillir	to shake
 tricher	to cheat/not play by the rules
 tricher sur [qch]	to lie about [sth]
@@ -1451,17 +1244,14 @@ user	to wear [sth] out/wear [sb] out/use
 s'user	to wear out/wear yourself out/wear thin
 utiliser	to use/take advantage of
 vaincre	to beat/conquer
-valoir	to be worth/merit/apply
+valoir	to be worth/merit/apply/can be taken as [sth]
 valoir [qch] à [qqn]	to cause [sb] [sth]
 se valoir	to be equal
-valoir [qch]	to can be taken as [sth]
 vanter	to extol
-se vanter	to brag
-se vanter de [qch]	to brag about [sth]
+se vanter (de [qch])	to brag (about [sth])
 se vanter de faire [qch]	to brag about doing [sth]
 varier	to vary
-veiller	to stay up
-veiller [qqn]	to sit with [sb]/hold a wake for [sb]
+veiller	to stay up/sit with [sb]/hold a wake for [sb]
 veiller sur [qqn]	to mind
 veiller à [qch]	to ensure
 vendre	to sell/vend
@@ -1469,12 +1259,10 @@ se vendre	to can be sold/sell yourself
 venger	to avenge
 venger [qqn] de [qch]	to avenge
 se venger	to take revenge/make up for [sth]
-se venger de [qch]	to avenge [sth]
-se venger de [qqn]	to take revenge on [sb]
+se venger de [qch]	to avenge [sth]/take revenge on [sb]
 se venger sur [qqn]	to take [sth] out on [sb]
 venir	to come
-venir de	to originate from
-venir de [qqn]	to be left to [sb] by [sb]
+venir de	to originate from/be left to [sb] by [sb]
 verdir	to go green/blench/cover in plants/paint green
 vérifier	to prove/keep a close eye on
 vérifier si	to check
@@ -1483,9 +1271,7 @@ verser	to fall into/add
 se vêtir	to dress
 vieillir	to age/die out
 se vieillir	to make yourself look older
-viser	to aim
-viser [qch]	to take aim at [sth]/visa
-viser [qqn]	to target/apply to [sb]
+viser	to aim/take aim at [sth]/visa/target/apply to [sb]
 viser à [qch]	to aim for [sth]
 visiter	to take a look at [sth]/pay a visit to [sb]
 vivre	to be alive
