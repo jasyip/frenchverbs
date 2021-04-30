@@ -46,22 +46,37 @@ def main():
     inds_to_del.clear()
     inds_to_repl = {}
 
-    i = 0
-    while i < len(as_list):
-        found = False
-        for j in range(i + 1, len(as_list)):
-            if as_list[i][0] not in as_list[j][0]:
-                break
-            if not found:
+    for verb in verbs:
+        inds_to_use = []
+        for i in range(len(as_list)):
+            if verb in as_list[i][0]:
+                inds_to_use.append(i)
+
+        inds_to_use.sort(key=lambda x: len(as_list[x][0]))
+
+        for ind, i in enumerate(inds_to_use):
+            for j in inds_to_use[ ind + 1 : ]:
+                if as_list[i][0] not in as_list[j][0]:
+                    continue
                 if (len(as_list[i][1]) == 1 and
-                        as_list[i][1][0] in as_list[j][1][0] and
                         all(bool(x.startswith(as_list[i][1][0])) for x in as_list[j][1])):
                     inds_to_del.extend([i, j])
                     inds_to_repl[i] = (parenthesize(as_list[i][0], as_list[j][0]), 
                             [parenthesize(as_list[i][1][0], as_list[j][1])])
-                    found = True
-        i = j + 1
-    inds_to_del.reverse()
+                    print(verb, as_list[i], as_list[j])
+                    break
+                if ((len(as_list[i][1]), len(as_list[j][1])) == (1, 1) and
+                        as_list[i][1][0] in as_list[j][1][0]):
+                    inds_to_del.extend([i, j])
+                    print(verb, as_list[i], as_list[j])
+                    inds_to_repl[i] = (parenthesize(as_list[i][0], as_list[j][0]), 
+                            [parenthesize(as_list[i][1][0], as_list[j][1][0])])
+                    break
+            else:
+                continue
+            break
+
+    inds_to_del.sort(reverse=True)
     for i in inds_to_del:
         del as_list[i]
         if i in inds_to_repl:
